@@ -1,1 +1,1 @@
-Small port town on the northern end of the [[Calbraith Penninsula]]
+Small port town on the northern end of the [[Calbraith Penninsula]]. Attacked in 708 AC

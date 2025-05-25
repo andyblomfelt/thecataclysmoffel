@@ -8,29 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "684f82e3b0285c73",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "test2"
-            }
-          },
-          {
             "id": "85375192c7096bc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Templates/NPC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NPC"
             }
           }
         ]
@@ -161,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Cities/Darfell.md",
+                "file": "Utilities/Templates/NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Darfell"
+              "title": "Outgoing links from NPC"
             }
           },
           {
@@ -259,43 +257,45 @@
   },
   "active": "d9313f28e5f64704",
   "lastOpenFiles": [
+    "People/Talric.md",
+    "Utilities/Templates/NPC.md",
+    "Utilities/Templates",
+    "People/Players/Ewan Reid.md",
+    "Writings/Ewan Reid's Backstory.md",
+    "Writings.md",
+    "Writings",
+    "People/Players/Tiyeme.md",
+    "test.md",
+    "Ewan's Mother (Unnamed).md",
+    "test2.md",
+    "Places/Port Almasha.md",
+    "Places/The Flimsy Fogbank.md",
+    "Places/Dalvareth.md",
+    "Places/Max's Village.md",
+    "Places/Calbraith Penninsula.md",
+    "Places/Cities",
+    "Places/Fel.md",
+    "People/Alastair Reid.md",
+    "People/Duncan Reid.md",
+    "People/Bonnie Reid.md",
+    "People/Arabella Reid.md",
+    "People/Players/Drew Renshaw.md",
+    "People/Players/Jerry Howard.md",
+    "People/Players/Kylie Howard.md",
+    "People/Players",
     "Utilities/port_almasha.png",
     "Utilities/Fel.svg.svg",
     "Utilities/Fel.png.png",
     "Utilities/Example names.md",
     "Utilities",
-    "Places/The Flimsy Fogbank.md",
-    "Places/Port Almasha.md",
-    "Places/Max's Village.md",
-    "Places/Leithe.md",
-    "Places/Fel.md",
-    "Places/Dalvareth.md",
-    "Places/Calbraith Penninsula.md",
+    "Places/Cities/Leithe.md",
     "Places",
     "Events/The Cataclysm.md",
     "Events",
     "Governments/Calbraithe.md",
     "Governments",
-    "Organizations/The Saints.md",
-    "Organizations/The Paladins of Calbraithe.md",
     "Organizations",
-    "test2.md",
-    "People/Tiyeme.md",
-    "People/Ewan Reid.md",
-    "People/Duncan Reid.md",
-    "People/Drew Renshaw.md",
-    "People/Bonnie Reid.md",
-    "People/Arabella Reid.md",
-    "People/Alastair Reid.md",
     "People",
-    "Overview.md",
-    "The Second World.md",
-    "The First World.md",
-    "Attack on Dalvareth.md",
-    "thecataclysmoffel",
-    "Fel/Test.md",
-    "Fel",
-    "Clone",
     "Organizations/Untitled.canvas",
     "Pasted image 20250406132133.png",
     "Pasted image 20250406134413.png",
@@ -304,7 +304,6 @@
     "Utility/Pasted image 20250406121557.png",
     "Utility/Pasted image 20250406120027.png",
     "Utility/Pasted image 20250406120003.png",
-    "Utility",
     "Untitled.canvas"
   ]
 }

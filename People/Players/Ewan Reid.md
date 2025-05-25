@@ -1,8 +1,8 @@
 ---
 Player: Max Heavner
 Parents:
-  - "[[Ewan's Father]]"
-  - "[[Ewan's Mother (Unnamed)]]"
+  - "[[Bonnie Reid]]"
+  - "[[Alastair Reid]]"
 ---
 Doesn't want romantic/sexual plots for his character.
 

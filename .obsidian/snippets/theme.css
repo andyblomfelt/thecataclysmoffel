@@ -1,0 +1,18 @@
+.HyperMD-header-1 {
+	padding-top: calc(var(--p-spacing)) !important;
+	padding-bottom: calc(var(--p-spacing)) !important;
+}
+
+.HyperMD-header-6 {
+	padding-top: 0px !important; 
+}
+
+.cm-header-6 {
+	color: #555;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.HyperMD-header-6:not(.HyperMD-header-1 + .HyperMD-header-6) {
+	padding-top: calc(var(--p-spacing)/2) !important;
+}

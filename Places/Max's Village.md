@@ -1,1 +1,0 @@
-Decently sized port town. Not capital city sized. Max has not been back here since. Attacked in 708 A.C.
