@@ -12,67 +12,24 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Fel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Fel"
+              "title": "New tab"
             }
           },
           {
             "id": "85375192c7096bc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Port Almasha.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Port Almasha"
-            }
-          },
-          {
-            "id": "6717589976fb407c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,8 +253,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6717589976fb407c",
+  "active": "684f82e3b0285c73",
   "lastOpenFiles": [
+    "People/Tiyeme.md",
+    "People/Ewan Reid.md",
+    "People/Duncan Reid.md",
+    "People/Drew Renshaw.md",
+    "People/Bonnie Reid.md",
+    "People/Arabella Reid.md",
+    "People/Alastair Reid.md",
+    "People",
     "Overview.md",
     "The Second World.md",
     "The First World.md",
@@ -316,14 +281,6 @@
     "Places/Dalvareth.md",
     "Places/Calbraith Penninsula.md",
     "Places",
-    "People/Tiyeme.md",
-    "People/Ewan Reid.md",
-    "People/Duncan Reid.md",
-    "People/Drew Renshaw.md",
-    "People/Bonnie Reid.md",
-    "People/Arabella Reid.md",
-    "People/Alastair Reid.md",
-    "People",
     "Organizations/The Saints.md",
     "Organizations/The Paladins of Calbraithe.md",
     "Organizations",
@@ -334,7 +291,6 @@
     "Events/The Cataclysm.md",
     "Events",
     "The Third World.md",
-    "test.md",
     "Clone",
     "Organizations/Untitled.canvas",
     "Pasted image 20250406132133.png",
