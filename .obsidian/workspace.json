@@ -1,41 +1,92 @@
 {
   "main": {
-    "id": "4f15d13175e978a1",
+    "id": "7739174d8b86a1cf",
     "type": "split",
     "children": [
       {
-        "id": "f5b437e5b8c5c8f5",
+        "id": "dfe63d88d2fb39b0",
         "type": "tabs",
         "children": [
           {
-            "id": "80dd8ab3b31e6d37",
+            "id": "684f82e3b0285c73",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Fel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Fel"
+            }
+          },
+          {
+            "id": "85375192c7096bc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Places/Port Almasha.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Port Almasha"
+            }
+          },
+          {
+            "id": "6717589976fb407c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fd155160ea416bc1",
+    "id": "de99452f14e365ef",
     "type": "split",
     "children": [
       {
-        "id": "a9ac7faf39a10741",
+        "id": "0d36ba5a91576a5a",
         "type": "tabs",
         "children": [
           {
-            "id": "e005760be3b5fb7a",
+            "id": "0c085551c505ee9a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +99,12 @@
             }
           },
           {
-            "id": "65cd760744a1e1b4",
+            "id": "7f95b7875cd2b057",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +116,7 @@
             }
           },
           {
-            "id": "be152b28faf87624",
+            "id": "9f7fc20e810df8e1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,86 +124,151 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "1d9c3b6aee13d776",
-    "type": "split",
-    "children": [
-      {
-        "id": "ddd67ce5059e2922",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "142d3cb6d023a34d",
+            "id": "c8baa3f22c72f55d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Places/Cities/Darfell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for Darfell"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.50260543823242
+  },
+  "right": {
+    "id": "aa6c18cd6ed1a95e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2518df8479bc9438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcb0db2a7c3502bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Fel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fel"
             }
           },
           {
-            "id": "a736de87be8fb19b",
+            "id": "81a875e6923593b2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ef2aad2ea088718b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Places/Cities/Darfell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from test"
+              "title": "Outgoing links from Darfell"
             }
           },
           {
-            "id": "adaccbc36e614438",
+            "id": "bd2979a7ff503a6a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "80481ec3e03e49dd",
+            "id": "9f170fae81e89ce5",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "57d65d378840516c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "870c9f2e152d57d8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "People/Players/Jackie.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of Jackie"
             }
           },
           {
-            "id": "de5c93169f46b787",
+            "id": "4cdca62e392693fa",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d9313f28e5f64704",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -162,11 +278,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 594.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,9 +292,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80dd8ab3b31e6d37",
-  "lastOpenFiles": []
+  "active": "6717589976fb407c",
+  "lastOpenFiles": [
+    "test.md",
+    "Overview.md",
+    "People/Drew Renshaw.md",
+    "Fel/Test.md",
+    "Fel",
+    "Utilities/port_almasha.png",
+    "Clone",
+    "The Third World.md",
+    "Places/Fel.md",
+    "People/Tiyeme.md",
+    "thecataclysmoffel",
+    "The Second World.md",
+    "People/Ewan Reid.md",
+    "People/Duncan Reid.md",
+    "People/Bonnie Reid.md",
+    "People/Arabella Reid.md",
+    "People/Alastair Reid.md",
+    "Organizations/The Saints.md",
+    "Organizations/The Paladins of Calbraithe.md",
+    "Organizations/Celestial Dragon Army.md",
+    "Attack on Dalvareth.md",
+    "Places/Dalvareth.md",
+    "Places/The Flimsy Fogbank.md",
+    "Governments/Calbraithe.md",
+    "Orga.md",
+    "Governments",
+    "People/Ewan's Mother (Unnamed).md",
+    "People/Ewan's Father.md",
+    "Utilities/Example names.md",
+    "The First World.md",
+    "Places/Leithe.md",
+    "Utilities/Fel.svg.svg",
+    "Utilities/Fel.png.png",
+    "People",
+    "Organizations/Untitled.canvas",
+    "Places",
+    "Organizations",
+    "Events",
+    "Utilities",
+    "Pasted image 20250406132133.png",
+    "Pasted image 20250406134413.png",
+    "Utility/Pasted image 20250406131433.png",
+    "Utility/Pasted image 20250406115732.png",
+    "Utility/Pasted image 20250406121557.png",
+    "Utility/Pasted image 20250406120027.png",
+    "Utility/Pasted image 20250406120003.png",
+    "Utility",
+    "Untitled.canvas"
+  ]
 }

@@ -1,1 +1,15 @@
-{}
+{
+  "accentColor": "#8b3f32",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "theme",
+    "MCL Multi Column",
+    "Fantasy borders"
+  ],
+  "translucency": false,
+  "showViewHeader": true,
+  "interfaceFontFamily": "Crimson",
+  "textFontFamily": "Crimson",
+  "baseFontSize": 18
+}

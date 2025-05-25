@@ -1,1 +1,6 @@
-{}
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "readableLineLength": false
+}
