@@ -12,11 +12,15 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test2.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test2"
             }
           },
           {
@@ -255,6 +259,7 @@
   },
   "active": "684f82e3b0285c73",
   "lastOpenFiles": [
+    "test2.md",
     "People/Tiyeme.md",
     "People/Ewan Reid.md",
     "People/Duncan Reid.md",
