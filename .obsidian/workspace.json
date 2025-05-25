@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilities/Templates/NPC.md",
+                "file": "Places/Eastern mountains.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPC"
+              "title": "Eastern mountains"
             }
           }
         ]
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Templates/NPC.md",
+                "file": "Places/Eastern mountains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NPC"
+              "title": "Outgoing links from Eastern mountains"
             }
           },
           {
@@ -241,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 594.5
+    "width": 1085.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,10 +255,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9313f28e5f64704",
+  "active": "0c085551c505ee9a",
   "lastOpenFiles": [
     "People/Talric.md",
+    "Places/Eastern mountains.md",
+    "Places/Businesses/The Flimsy Fogbank.md",
+    "Places/Businesses",
+    "Places/Cities/Port Almasha.md",
+    "Places/Cities/Dalvareth.md",
+    "Places/Cities/The city that Talric met Tiyeme.md",
+    "Places/Calbraith Penninsula.md",
     "Utilities/Templates/NPC.md",
+    "Places/Cities/Calbrithane.md",
+    "Governments/Calbraithe.md",
+    "Calbrithe.md",
     "Utilities/Templates",
     "People/Players/Ewan Reid.md",
     "Writings/Ewan Reid's Backstory.md",
@@ -268,11 +278,7 @@
     "test.md",
     "Ewan's Mother (Unnamed).md",
     "test2.md",
-    "Places/Port Almasha.md",
-    "Places/The Flimsy Fogbank.md",
-    "Places/Dalvareth.md",
     "Places/Max's Village.md",
-    "Places/Calbraith Penninsula.md",
     "Places/Cities",
     "Places/Fel.md",
     "People/Alastair Reid.md",
@@ -281,21 +287,15 @@
     "People/Arabella Reid.md",
     "People/Players/Drew Renshaw.md",
     "People/Players/Jerry Howard.md",
-    "People/Players/Kylie Howard.md",
     "People/Players",
     "Utilities/port_almasha.png",
     "Utilities/Fel.svg.svg",
     "Utilities/Fel.png.png",
-    "Utilities/Example names.md",
     "Utilities",
-    "Places/Cities/Leithe.md",
     "Places",
-    "Events/The Cataclysm.md",
     "Events",
-    "Governments/Calbraithe.md",
     "Governments",
     "Organizations",
-    "People",
     "Organizations/Untitled.canvas",
     "Pasted image 20250406132133.png",
     "Pasted image 20250406134413.png",

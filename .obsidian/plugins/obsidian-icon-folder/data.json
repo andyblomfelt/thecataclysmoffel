@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiUserCircle",
-      "LiUserCircle2"
+      "LiUser",
+      "LiMapPin",
+      "LiCircleDashed",
+      "LiBuilding2",
+      "LiBookTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +38,12 @@
   "People/Players/Tiyeme.md": "LiUserCircle",
   "People/Players/Drew Renshaw.md": "LiUserCircle",
   "People/Players/Kylie Howard.md": "LiUserCircle",
-  "People/Players/Jerry Howard.md": "LiUserCircle"
+  "People/Players/Jerry Howard.md": "LiUserCircle",
+  "Utilities/Templates/NPC.md": "LiBookTemplate",
+  "Places/Cities": "LiBuilding2",
+  "Places/Cities/The city that Talric met Tiyeme.md": "LiCircleDashed",
+  "Places": "LiMapPin",
+  "People/Players": "LiUserCircle",
+  "People": "LiUser",
+  "Places/Eastern mountains.md": "LiCircleDashed"
 }
