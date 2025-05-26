@@ -8,3 +8,6 @@ Everyone starts out on a train from *somewhere* to [[Port Almasha]]. Each player
 
 On the way, the train is attacked by a group of bandits that want to get at the high ranking merchant that Drew's character is escorting.
 During the fight on the train, [[Ewan Reid]] will get the opportunity to protect a helpless Calbraithen family, in order to rejuvenate his oath and desire to protect his people.
+
+# Possible hooks
+1. Sorchan is getting arrested once they arrive. A famous member of [[Line Six]], he's recognized by Tiyeme and Ewan. Everyone on this train, including their cargo, is being brought in for questioning and search. 
