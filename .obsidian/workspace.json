@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Players/Tiyeme Assisi.md",
+                "file": "People/Players/Jerry Howard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tiyeme Assisi"
+              "title": "Jerry Howard"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Players/Tiyeme Assisi.md",
+                "file": "People/Players/Jerry Howard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tiyeme Assisi"
+              "title": "Outgoing links from Jerry Howard"
             }
           },
           {
@@ -279,20 +279,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9313f28e5f64704",
+  "active": "85375192c7096bc6",
   "lastOpenFiles": [
     "People/Players/Ewan Reid.md",
+    "People/Players/Drew Renshaw.md",
+    "Places/Cities/Dalvareth.md",
+    "Writings/Ewan Reid's Backstory.md",
+    "People/Players/Jerry Howard.md",
+    "01 - Sessions/June 8th, 2025.md",
+    "People/Players/Tiyeme Assisi.md",
     "Places/Eastern mountains.md",
     "People/Sorchan Varr.md",
-    "01 - Sessions/June 8th, 2025.md",
     "People/Talric.md",
     "People/Kaela.md",
-    "Writings/Ewan Reid's Backstory.md",
-    "People/Players/Drew Renshaw.md",
     "People/Alastair Reid.md",
     "Utilities/port_almasha.png",
     "Places/Cities/Port Almasha.md",
-    "People/Players/Tiyeme Assisi.md",
     "People/Players/Kylie Howard.md",
     "Organizations/Line Six.md",
     "Kaela.md",
@@ -306,7 +308,6 @@
     "Organizations/Rebellion.md",
     "Places/Businesses/The Flimsy Fogbank.md",
     "Places/Businesses",
-    "Places/Cities/Dalvareth.md",
     "Places/Cities/The city that Talric met Tiyeme.md",
     "Places/Calbraith Penninsula.md",
     "Utilities/Templates",
