@@ -1,1 +1,0 @@
-Father of [[Ewan Reid]]. Dead.

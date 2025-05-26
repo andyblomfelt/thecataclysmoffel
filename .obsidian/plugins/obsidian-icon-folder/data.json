@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpen",
+      "LiCircleDashed",
+      "LiBriefcaseBusiness",
       "LiCircleOff",
-      "LiMap",
-      "LiUser",
-      "LiMapPin",
-      "LiCircleDashed"
+      "LiMap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,8 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "People/Players/Ewan Reid.md": "LiUserCircle",
-  "People/Players/Tiyeme.md": "LiUserCircle",
   "People/Players/Drew Renshaw.md": "LiUserCircle",
   "People/Players/Kylie Howard.md": "LiUserCircle",
   "People/Players/Jerry Howard.md": "LiUserCircle",
@@ -57,8 +55,16 @@
   "Organizations/The Paladins of Calbraithe.md": "LiCircleDashed",
   "Organizations/The Saints.md": "LiCircleDashed",
   "Governments/Calbraithe.md": "LiCircleDashed",
-  "People/Alastair Reid.md": "LiCircleOff",
-  "People/Arabella Reid.md": "LiCircleOff",
-  "People/Bonnie Reid.md": "LiCircleOff",
-  "People/Duncan Reid.md": "LiCircleOff"
+  "Places/Cities/Port Almasha.md": "LiCircleDashed",
+  "Places/Cities/Leithe.md": "LiCircleDashed",
+  "Places/Cities/Dalvareth.md": "LiCircleDashed",
+  "Places/Cities/Calbrithane.md": "LiCircleDashed",
+  "Places/Businesses/The Flimsy Fogbank.md": "LiCircleDashed",
+  "Places/Businesses": "LiBriefcaseBusiness",
+  "Events/The Cataclysm.md": "LiCircleDashed",
+  "01 - Sessions": "LiBookOpen",
+  "Organizations/Scars of Calbraithe.md": "LiCircleDashed",
+  "Organizations/Line Six.md": "LiCircleDashed",
+  "People/Players/Ewan Reid.md": "LiUserCircle",
+  "People/Players/Tiyeme Assisi.md": "LiUserCircle"
 }

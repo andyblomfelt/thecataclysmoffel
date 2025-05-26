@@ -3,6 +3,7 @@ Player: Max Heavner
 Parents:
   - "[[Bonnie Reid]]"
   - "[[Alastair Reid]]"
+Age: "30"
 ---
 Doesn't want romantic/sexual plots for his character.
 
