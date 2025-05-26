@@ -1,0 +1,3 @@
+The Rebellion was a well-organized militia limited to the [[Eastern continent]] that was built to go against [[The Saints]]. Somehow, they discovered the magical engine that was powering the sigil built into [[Leithe]]. Because of the power of the mind sigil, they didn't know that it was magical, or really had any idea what it did, but decided that they needed to bomb it. This accidentially destroyed the city, caused [[The Cataclysm]].
+
+Currently, the rebellion isn't as organized as it was before. Small cells are now fighting against their own governments, while others are trying to figure out what happened to [[The Saints]] since [[The Cataclysm]], although most people just assume they're dead.
