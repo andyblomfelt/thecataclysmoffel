@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Eastern mountains.md",
+                "file": "People/Arabella Reid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Eastern mountains"
+              "title": "Arabella Reid"
             }
           }
         ]
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Eastern mountains.md",
+                "file": "People/Arabella Reid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eastern mountains"
+              "title": "Outgoing links from Arabella Reid"
             }
           },
           {
@@ -257,7 +257,15 @@
   },
   "active": "0c085551c505ee9a",
   "lastOpenFiles": [
+    "People/Bonnie Reid.md",
+    "People/Duncan Reid.md",
+    "People/Arabella Reid.md",
+    "People/Alastair Reid.md",
+    "Organizations/The Saints.md",
+    "Organizations/The Paladins of Calbraithe.md",
+    "Organizations/Rebellion.md",
     "People/Talric.md",
+    "People/Players/Drew Renshaw.md",
     "Places/Eastern mountains.md",
     "Places/Businesses/The Flimsy Fogbank.md",
     "Places/Businesses",
@@ -278,15 +286,7 @@
     "test.md",
     "Ewan's Mother (Unnamed).md",
     "test2.md",
-    "Places/Max's Village.md",
     "Places/Cities",
-    "Places/Fel.md",
-    "People/Alastair Reid.md",
-    "People/Duncan Reid.md",
-    "People/Bonnie Reid.md",
-    "People/Arabella Reid.md",
-    "People/Players/Drew Renshaw.md",
-    "People/Players/Jerry Howard.md",
     "People/Players",
     "Utilities/port_almasha.png",
     "Utilities/Fel.svg.svg",

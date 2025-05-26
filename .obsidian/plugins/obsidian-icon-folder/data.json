@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCircleOff",
+      "LiMap",
       "LiUser",
       "LiMapPin",
-      "LiCircleDashed",
-      "LiBuilding2",
-      "LiBookTemplate"
+      "LiCircleDashed"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,8 +42,23 @@
   "Utilities/Templates/NPC.md": "LiBookTemplate",
   "Places/Cities": "LiBuilding2",
   "Places/Cities/The city that Talric met Tiyeme.md": "LiCircleDashed",
-  "Places": "LiMapPin",
+  "Places": {
+    "iconName": "LiMapPin",
+    "iconColor": "#a69473"
+  },
   "People/Players": "LiUserCircle",
-  "People": "LiUser",
-  "Places/Eastern mountains.md": "LiCircleDashed"
+  "People": {
+    "iconName": "LiUser",
+    "iconColor": "#6d756f"
+  },
+  "Places/Eastern mountains.md": "LiCircleDashed",
+  "Places/Fel.md": "LiMap",
+  "Organizations/Rebellion.md": "LiCircleDashed",
+  "Organizations/The Paladins of Calbraithe.md": "LiCircleDashed",
+  "Organizations/The Saints.md": "LiCircleDashed",
+  "Governments/Calbraithe.md": "LiCircleDashed",
+  "People/Alastair Reid.md": "LiCircleOff",
+  "People/Arabella Reid.md": "LiCircleOff",
+  "People/Bonnie Reid.md": "LiCircleOff",
+  "People/Duncan Reid.md": "LiCircleOff"
 }
