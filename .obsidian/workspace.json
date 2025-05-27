@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Players/Jerry Howard.md",
+                "file": "People/Players/Selene Stormdancer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jerry Howard"
+              "title": "Selene Stormdancer"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Players/Jerry Howard.md",
+                "file": "People/Players/Selene Stormdancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jerry Howard"
+              "title": "Outgoing links from Selene Stormdancer"
             }
           },
           {
@@ -281,12 +281,15 @@
   },
   "active": "85375192c7096bc6",
   "lastOpenFiles": [
+    "People/Players/Ylva.md",
+    "People/Players/Jerry Howard.md",
+    "Organizations/The Saints.md",
+    "Places/Cities/Port Almasha.md",
+    "01 - Sessions/June 8th, 2025.md",
     "People/Players/Ewan Reid.md",
-    "People/Players/Drew Renshaw.md",
+    "People/Players/Selene Stormdancer.md",
     "Places/Cities/Dalvareth.md",
     "Writings/Ewan Reid's Backstory.md",
-    "People/Players/Jerry Howard.md",
-    "01 - Sessions/June 8th, 2025.md",
     "People/Players/Tiyeme Assisi.md",
     "Places/Eastern mountains.md",
     "People/Sorchan Varr.md",
@@ -294,8 +297,6 @@
     "People/Kaela.md",
     "People/Alastair Reid.md",
     "Utilities/port_almasha.png",
-    "Places/Cities/Port Almasha.md",
-    "People/Players/Kylie Howard.md",
     "Organizations/Line Six.md",
     "Kaela.md",
     "Organizations/Scars of Calbraithe.md",
@@ -303,7 +304,6 @@
     "People/Bonnie Reid.md",
     "People/Arabella Reid.md",
     "People/Duncan Reid.md",
-    "Organizations/The Saints.md",
     "Organizations/The Paladins of Calbraithe.md",
     "Organizations/Rebellion.md",
     "Places/Businesses/The Flimsy Fogbank.md",

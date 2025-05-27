@@ -34,8 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "People/Players/Drew Renshaw.md": "LiUserCircle",
-  "People/Players/Kylie Howard.md": "LiUserCircle",
   "People/Players/Jerry Howard.md": "LiUserCircle",
   "Utilities/Templates/NPC.md": "LiBookTemplate",
   "Places/Cities": "LiBuilding2",
@@ -66,5 +64,7 @@
   "Organizations/Scars of Calbraithe.md": "LiCircleDashed",
   "Organizations/Line Six.md": "LiCircleDashed",
   "People/Players/Ewan Reid.md": "LiUserCircle",
-  "People/Players/Tiyeme Assisi.md": "LiUserCircle"
+  "People/Players/Tiyeme Assisi.md": "LiUserCircle",
+  "People/Players/Ylva.md": "LiUserCircle",
+  "People/Players/Selene Stormdancer.md": "LiUserCircle"
 }
