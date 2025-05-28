@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Sessions/June 8th, 2025.md",
+                "file": "Places/Mahaz Ridge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "June 8th, 2025"
+              "title": "Mahaz Ridge"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Sessions/June 8th, 2025.md",
+                "file": "Places/Mahaz Ridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from June 8th, 2025"
+              "title": "Outgoing links from Mahaz Ridge"
             }
           },
           {
@@ -279,8 +279,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85375192c7096bc6",
+  "active": "0c085551c505ee9a",
   "lastOpenFiles": [
+    "01 - Sessions/0 - May 29, 2025.md",
+    "01 - Sessions/1 - June 1st, 2025.md",
+    "People/Lunas Verrin.md",
     "Places/Yarra.md",
     "Places/Mahaz Ridge.md",
     "People/Players/Ewan Reid.md",
@@ -288,7 +291,6 @@
     "Places/Cities/The city that Talric met Tiyeme.md",
     "Places/Fel.md",
     "Utilities/Example names.md",
-    "01 - Sessions/June 8th, 2025.md",
     "The Third World.md",
     "Organizations/The Saints.md",
     "People/Players/Ylva.md",
@@ -307,8 +309,6 @@
     "Organizations/Scars of Calbraithe.md",
     "01 - Sessions",
     "People/Bonnie Reid.md",
-    "People/Arabella Reid.md",
-    "People/Duncan Reid.md",
     "Places/Businesses",
     "Utilities/Templates",
     "Writings",
