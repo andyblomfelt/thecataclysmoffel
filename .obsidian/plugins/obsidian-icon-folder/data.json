@@ -47,7 +47,6 @@
     "iconName": "LiUser",
     "iconColor": "#6d756f"
   },
-  "Places/Eastern mountains.md": "LiCircleDashed",
   "Places/Fel.md": "LiMap",
   "Organizations/Rebellion.md": "LiCircleDashed",
   "Organizations/The Paladins of Calbraithe.md": "LiCircleDashed",
@@ -66,5 +65,6 @@
   "People/Players/Ewan Reid.md": "LiUserCircle",
   "People/Players/Tiyeme Assisi.md": "LiUserCircle",
   "People/Players/Ylva.md": "LiUserCircle",
-  "People/Players/Noro.md": "LiUserCircle"
+  "People/Players/Noro.md": "LiUserCircle",
+  "Places/Mahaz Ridge.md": "LiCircleDashed"
 }

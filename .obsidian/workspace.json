@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Third World.md",
+                "file": "01 - Sessions/June 8th, 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Third World"
+              "title": "June 8th, 2025"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Players/Ewan Reid.md",
+                "file": "Places/Mahaz Ridge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ewan Reid"
+              "title": "Mahaz Ridge"
             }
           }
         ]
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Third World.md",
+                "file": "01 - Sessions/June 8th, 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Third World"
+              "title": "Outgoing links from June 8th, 2025"
             }
           },
           {
@@ -281,18 +281,22 @@
   },
   "active": "85375192c7096bc6",
   "lastOpenFiles": [
-    "Organizations/The Saints.md",
+    "Places/Yarra.md",
+    "Places/Mahaz Ridge.md",
+    "People/Players/Ewan Reid.md",
+    "Places/Cities/Port Almasha.md",
+    "Places/Cities/The city that Talric met Tiyeme.md",
+    "Places/Fel.md",
+    "Utilities/Example names.md",
+    "01 - Sessions/June 8th, 2025.md",
     "The Third World.md",
+    "Organizations/The Saints.md",
     "People/Players/Ylva.md",
     "People/Players/Noro.md",
     "People/Players/Jerry Howard.md",
-    "Places/Cities/Port Almasha.md",
-    "01 - Sessions/June 8th, 2025.md",
-    "People/Players/Ewan Reid.md",
     "Places/Cities/Dalvareth.md",
     "Writings/Ewan Reid's Backstory.md",
     "People/Players/Tiyeme Assisi.md",
-    "Places/Eastern mountains.md",
     "People/Sorchan Varr.md",
     "People/Talric.md",
     "People/Kaela.md",
@@ -305,11 +309,7 @@
     "People/Bonnie Reid.md",
     "People/Arabella Reid.md",
     "People/Duncan Reid.md",
-    "Organizations/The Paladins of Calbraithe.md",
-    "Organizations/Rebellion.md",
-    "Places/Businesses/The Flimsy Fogbank.md",
     "Places/Businesses",
-    "Places/Cities/The city that Talric met Tiyeme.md",
     "Utilities/Templates",
     "Writings",
     "Places/Cities",

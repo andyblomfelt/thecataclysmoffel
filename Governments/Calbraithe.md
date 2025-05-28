@@ -1,4 +1,4 @@
-A now-fallen empire in the north-west penninsula of the [[Eastern continent]]. 
+A now-fallen empire in the north-west penninsula of the [[Yarra]]. 
 
 Sometime during the Second World, an emporer with Calbraithe's namesake wanted to spread his influence to the rest of the world, and overtook the entirety of the northwest penninsula.
 
