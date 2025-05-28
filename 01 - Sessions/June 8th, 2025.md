@@ -6,7 +6,7 @@ Everyone starts out on a train from *somewhere* to [[Port Almasha]]. Each player
 - [[Jerry Howard]] to be determined
 - [[Ylva]] to be determined
 
-On the way, the train is attacked by a group of bandits that want to get at the high ranking merchant that Drew's character is escorting.
+On the way, the train is attacked by a group of bandits that want to steal Tiyeme's armors. These bandits will at some point drop a coin that has the seal of the Calbraithen army. [[Talric]] paid them to steal Tiyeme's work, so that he can continue investigating The Saints.
 During the fight on the train, [[Ewan Reid]] will get the opportunity to protect a helpless Calbraithen family, in order to rejuvenate his oath and desire to protect his people.
 
 # Possible hooks
