@@ -1,0 +1,1 @@
+The era of the world where magic has returned, sparked by [[The Cataclysm]].

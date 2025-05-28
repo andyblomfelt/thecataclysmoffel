@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/The Saints.md",
+                "file": "The Third World.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Saints"
+              "title": "The Third World"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizations/The Saints.md",
+                "file": "The Third World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Saints"
+              "title": "Outgoing links from The Third World"
             }
           },
           {
@@ -281,10 +281,11 @@
   },
   "active": "85375192c7096bc6",
   "lastOpenFiles": [
+    "Organizations/The Saints.md",
+    "The Third World.md",
     "People/Players/Ylva.md",
     "People/Players/Noro.md",
     "People/Players/Jerry Howard.md",
-    "Organizations/The Saints.md",
     "Places/Cities/Port Almasha.md",
     "01 - Sessions/June 8th, 2025.md",
     "People/Players/Ewan Reid.md",
@@ -309,7 +310,6 @@
     "Places/Businesses/The Flimsy Fogbank.md",
     "Places/Businesses",
     "Places/Cities/The city that Talric met Tiyeme.md",
-    "Places/Calbraith Penninsula.md",
     "Utilities/Templates",
     "Writings",
     "Places/Cities",
