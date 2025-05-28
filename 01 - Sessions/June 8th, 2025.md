@@ -2,7 +2,7 @@
 Everyone starts out on a train from *somewhere* to [[Port Almasha]]. Each player has a different reason for being there:
 - [[Ewan Reid|Ewan]] on the train to deliver weapons to [[Sorchan Varr]], a member of [[Line Six]]
 - [[Tiyeme Assisi|Tiyeme]] on the train to follow the lead he got from [[Talric]] on [[Kaela]] and the [[Line Six]]
-- [[Selene Stormdancer]] on the train to escort a high ranking merchant of the [[Thieves' Guild]]
+- [[Noro]] on the train to escort a high ranking merchant of the [[Thieves' Guild]]
 - [[Jerry Howard]] to be determined
 - [[Ylva]] to be determined
 

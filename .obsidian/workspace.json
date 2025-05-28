@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Players/Selene Stormdancer.md",
+                "file": "Organizations/The Saints.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Selene Stormdancer"
+              "title": "The Saints"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Players/Selene Stormdancer.md",
+                "file": "Organizations/The Saints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Selene Stormdancer"
+              "title": "Outgoing links from The Saints"
             }
           },
           {
@@ -282,12 +282,12 @@
   "active": "85375192c7096bc6",
   "lastOpenFiles": [
     "People/Players/Ylva.md",
+    "People/Players/Noro.md",
     "People/Players/Jerry Howard.md",
     "Organizations/The Saints.md",
     "Places/Cities/Port Almasha.md",
     "01 - Sessions/June 8th, 2025.md",
     "People/Players/Ewan Reid.md",
-    "People/Players/Selene Stormdancer.md",
     "Places/Cities/Dalvareth.md",
     "Writings/Ewan Reid's Backstory.md",
     "People/Players/Tiyeme Assisi.md",
