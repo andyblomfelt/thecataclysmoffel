@@ -1,0 +1,1 @@
+Owes a debt to the [[Thieves' Guild]] that Noro works for. Has with him a compass that he claims leads to ruins that predate the ascension, apparently no one could access it before the cataclysm.

@@ -34,7 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "People/Players/Jerry Howard.md": "LiUserCircle",
   "Utilities/Templates/NPC.md": "LiBookTemplate",
   "Places/Cities": "LiBuilding2",
   "Places/Cities/The city that Talric met Tiyeme.md": "LiCircleDashed",
@@ -65,5 +64,6 @@
   "People/Players/Ewan Reid.md": "LiUserCircle",
   "People/Players/Tiyeme Assisi.md": "LiUserCircle",
   "People/Players/Ylva.md": "LiUserCircle",
-  "People/Players/Noro.md": "LiUserCircle"
+  "People/Players/Noro.md": "LiUserCircle",
+  "People/Players/Demiel Whym.md": "LiUserCircle"
 }

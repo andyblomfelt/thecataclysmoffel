@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Mahaz Ridge.md",
+                "file": "01 - Sessions/1 - June 1st, 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mahaz Ridge"
+              "title": "1 - June 1st, 2025"
             }
           },
           {
@@ -166,6 +166,43 @@
             }
           },
           {
+            "id": "8d990d1de0cde495",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01 - Sessions/1 - June 1st, 2025.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 1 - June 1st, 2025"
+            }
+          },
+          {
             "id": "81a875e6923593b2",
             "type": "leaf",
             "pinned": true,
@@ -183,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Mahaz Ridge.md",
+                "file": "01 - Sessions/1 - June 1st, 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mahaz Ridge"
+              "title": "Outgoing links from 1 - June 1st, 2025"
             }
           },
           {
@@ -261,11 +298,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 1085.5
+    "width": 987.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,36 +316,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c085551c505ee9a",
+  "active": "d9313f28e5f64704",
   "lastOpenFiles": [
+    "People/Players/Ylva.md",
+    "Places/Cities/Dalvareth.md",
+    "Places/Cities/Calbrithane.md",
+    "Places/Businesses/The Flimsy Fogbank.md",
+    "Governments/Calbraithe.md",
     "01 - Sessions/0 - May 29, 2025.md",
+    "Boding.md",
     "01 - Sessions/1 - June 1st, 2025.md",
-    "People/Lunas Verrin.md",
-    "Places/Yarra.md",
     "Places/Mahaz Ridge.md",
-    "People/Players/Ewan Reid.md",
-    "Places/Cities/Port Almasha.md",
+    "Utilities/Overview.md",
     "Places/Cities/The city that Talric met Tiyeme.md",
+    "Places/Cities/Port Almasha.md",
+    "Places/Cities/Leithe.md",
+    "People/Kaela.md",
+    "People/Players/Demiel Whym.md",
+    "People/Lunas Verrin.md",
+    "People/Players/Tiyeme Assisi.md",
+    "People/Players/Noro.md",
+    "Places/Yarra.md",
+    "People/Players/Ewan Reid.md",
     "Places/Fel.md",
     "Utilities/Example names.md",
     "The Third World.md",
     "Organizations/The Saints.md",
-    "People/Players/Ylva.md",
-    "People/Players/Noro.md",
-    "People/Players/Jerry Howard.md",
-    "Places/Cities/Dalvareth.md",
     "Writings/Ewan Reid's Backstory.md",
-    "People/Players/Tiyeme Assisi.md",
     "People/Sorchan Varr.md",
-    "People/Talric.md",
-    "People/Kaela.md",
-    "People/Alastair Reid.md",
     "Utilities/port_almasha.png",
-    "Organizations/Line Six.md",
-    "Kaela.md",
-    "Organizations/Scars of Calbraithe.md",
     "01 - Sessions",
-    "People/Bonnie Reid.md",
     "Places/Businesses",
     "Utilities/Templates",
     "Writings",
