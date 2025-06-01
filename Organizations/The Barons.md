@@ -1,0 +1,1 @@
+A coalition of criminal organizations that have taken power across [[Yarra]] who regularly interact in order to protect their interests across the continent. The leaders meet regularly and have deals with many local governments, including [[Port Almasha]].
