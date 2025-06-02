@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Sessions/1 - June 1st, 2025.md",
+                "file": "People/Boding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 - June 1st, 2025"
+              "title": "Boding"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Sessions/1 - June 1st, 2025.md",
+                "file": "People/Boding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1 - June 1st, 2025"
+              "title": "Graph of Boding"
             }
           },
           {
@@ -220,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Sessions/1 - June 1st, 2025.md",
+                "file": "People/Boding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1 - June 1st, 2025"
+              "title": "Outgoing links from Boding"
             }
           },
           {
@@ -316,25 +316,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9313f28e5f64704",
+  "active": "85375192c7096bc6",
   "lastOpenFiles": [
+    "People/Players/Demiel Whym.md",
+    "Utilities/Rumors.canvas",
+    "People/Players/Tiyeme Assisi.md",
+    "01 - Sessions/1 - June 1st, 2025.md",
+    "People/Boding.md",
     "People/Players/Ylva.md",
     "Places/Cities/Dalvareth.md",
     "Places/Cities/Calbrithane.md",
     "Places/Businesses/The Flimsy Fogbank.md",
     "Governments/Calbraithe.md",
     "01 - Sessions/0 - May 29, 2025.md",
-    "Boding.md",
-    "01 - Sessions/1 - June 1st, 2025.md",
     "Places/Mahaz Ridge.md",
     "Utilities/Overview.md",
     "Places/Cities/The city that Talric met Tiyeme.md",
     "Places/Cities/Port Almasha.md",
     "Places/Cities/Leithe.md",
     "People/Kaela.md",
-    "People/Players/Demiel Whym.md",
     "People/Lunas Verrin.md",
-    "People/Players/Tiyeme Assisi.md",
     "People/Players/Noro.md",
     "Places/Yarra.md",
     "People/Players/Ewan Reid.md",
@@ -343,7 +344,6 @@
     "The Third World.md",
     "Organizations/The Saints.md",
     "Writings/Ewan Reid's Backstory.md",
-    "People/Sorchan Varr.md",
     "Utilities/port_almasha.png",
     "01 - Sessions",
     "Places/Businesses",
@@ -364,7 +364,6 @@
     "Utility/Pasted image 20250406115732.png",
     "Utility/Pasted image 20250406121557.png",
     "Utility/Pasted image 20250406120027.png",
-    "Utility/Pasted image 20250406120003.png",
-    "Untitled.canvas"
+    "Utility/Pasted image 20250406120003.png"
   ]
 }

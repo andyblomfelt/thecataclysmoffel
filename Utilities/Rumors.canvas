@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"3698daf7fefe30bb","type":"text","text":"Ylva","x":-360,"y":-400,"width":250,"height":60},
+		{"id":"bb179820b4c8d0e5","type":"text","text":"Noro","x":-360,"y":-280,"width":250,"height":60},
+		{"id":"8a467e2219af9c96","type":"text","text":"Ewan","x":20,"y":-400,"width":250,"height":60},
+		{"id":"1c3f79a52cdca8a4","type":"text","text":"Tiyeme","x":20,"y":-280,"width":250,"height":60},
+		{"id":"ad8a4cecaceedeb1","type":"text","text":"Demiel","x":20,"y":-160,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7a206eca620c9ae2","fromNode":"ad8a4cecaceedeb1","fromSide":"top","toNode":"1c3f79a52cdca8a4","toSide":"bottom"},
+		{"id":"1bfe62808b6e4197","fromNode":"1c3f79a52cdca8a4","fromSide":"top","toNode":"8a467e2219af9c96","toSide":"bottom","color":"1"},
+		{"id":"1d3b8a10c5cd8ca8","fromNode":"8a467e2219af9c96","fromSide":"right","toNode":"ad8a4cecaceedeb1","toSide":"right","color":"1"},
+		{"id":"801de12bd07dd9ff","fromNode":"bb179820b4c8d0e5","fromSide":"left","toNode":"3698daf7fefe30bb","toSide":"left"},
+		{"id":"d39a9d24c96f77de","fromNode":"3698daf7fefe30bb","fromSide":"right","toNode":"bb179820b4c8d0e5","toSide":"right","color":"1"}
+	]
+}
