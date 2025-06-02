@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Boding.md",
+                "file": "People/Players/Ylva.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boding"
+              "title": "Ylva"
+            }
+          },
+          {
+            "id": "d789a8fdad70b17a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Players/Ylva.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ylva"
             }
           },
           {
@@ -55,7 +79,8 @@
               "title": "Mahaz Ridge"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Boding.md",
+                "file": "People/Players/Ylva.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Boding"
+              "title": "Graph of Ylva"
             }
           },
           {
@@ -220,12 +245,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Boding.md",
+                "file": "People/Players/Ylva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Boding"
+              "title": "Outgoing links from Ylva"
             }
           },
           {
@@ -316,14 +341,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85375192c7096bc6",
+  "active": "d789a8fdad70b17a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "People/Players/Ylva.md",
+    "People/Boding.md",
+    "People/Hjordis.md",
+    "Organizations/Trusto's Business",
+    "Organizations/The Barons.md",
     "People/Players/Demiel Whym.md",
     "Utilities/Rumors.canvas",
     "People/Players/Tiyeme Assisi.md",
     "01 - Sessions/1 - June 1st, 2025.md",
-    "People/Boding.md",
-    "People/Players/Ylva.md",
     "Places/Cities/Dalvareth.md",
     "Places/Cities/Calbrithane.md",
     "Places/Businesses/The Flimsy Fogbank.md",
@@ -342,8 +371,6 @@
     "Places/Fel.md",
     "Utilities/Example names.md",
     "The Third World.md",
-    "Organizations/The Saints.md",
-    "Writings/Ewan Reid's Backstory.md",
     "Utilities/port_almasha.png",
     "01 - Sessions",
     "Places/Businesses",
@@ -356,7 +383,6 @@
     "Utilities",
     "Places",
     "Events",
-    "Governments",
     "Organizations/Untitled.canvas",
     "Pasted image 20250406132133.png",
     "Pasted image 20250406134413.png",

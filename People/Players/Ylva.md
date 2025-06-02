@@ -1,7 +1,14 @@
-Kylie comes from a small clan of dragon riders in the northern forests of the [[Yarra]]. Dragons are rare and not as powerful as is typical for a dragon due to the effects of the sigils, so most people wouldn't even know the existence of them.
+Came from matriarchical society.
+Ylva's line were the only ones allowed to do so. Ylva was never meant to be in charge. Her sister was sick, so she had to ask Hjordis to ride towards town.
+Ylva went back to see if the clan was alive, and they were raided and died in a landslide. She found a relic of her people that's how her magic item.
+Clan is about ~150 large.
 
-While Kylie was riding on the day of the [[The Cataclysm]], the leylines overflowed and surrounded her and her dragon with magical energy, combining their souls. Kylie thus became the first "dragonborn", a human-dragon hybrid. The status of the dragons are currently unknown.
+Ylva was native to a small clan of women in the northern forests of [[Yarra]], who had been tending to the dragon [[Hjordis]] for centuries, since the ascension of the Saints. Ylva grew up to stories about her distant family saving Hjordis and offering her sanctuary in the forest, and how Hjordis would help the townsfolk by helping transport resources from Leithe over the mountains back to town.
 
-Came from matriarchical society. 
-# Rumor
-"They say was born of an elf and something that doesn't exist anymore. Dragons, maybe. Or worse. She doesn’t sleep, doesn’t bleed right, and can track a man through walls. Takes jobs no one else dares. One time, a village tried to cheat her. No one lives there now." "Aye, she’s been through here. Once. Maybe twice. Hard to say. You know it's her when the room goes quiet and the hearth gets livelier, like it’s dancing in her presence. Always in that heavy cloak, hood drawn low. Just enough light to catch those eyes — violet, like candlelight behind stained glass. Didn’t speak a word. Just left coin and a note for the job. Took it, did it, gone. Folk who try to follow her don’t come back. Folk who press her for a name get... unsettled. Some say she’s got horns under that hood. Some say there’s no face at all. Me? I say pour her drink, nod polite, and keep your eyes on your own business."
+Ylva was never meant to be close with Hjordis. Her older sister, Erri, was next in line to take the mantle of Vardmother, and would regularly train with Hjordis and learn the best ways to make sure she was fed, and the town could get the resources they needed. 
+
+In 713 AC, the day of the cataclysm, [[Erri]] was sick, and so Ylva needed to take Hjordis in order to receive a shipment of medicine that was scheduled for the day. Ylva and Hjordis peak over the ridge to city a blue, crackling explosion slowly expanding over where Leithe should be. One of these magical cracks shoots out towards them, blinding both of them in a static of light. When they wake up, they're in a completely unfamiliar grassland, and heard Hjordis' voice in her head.
+
+She spends the next two years trying to get back to her family. With the world in disarray after [[The Cataclysm]], it takes a long time to make travel happen. When she arrives, she discovers that the town was destroyed in a landslide. She is able to recover the sending stones that had been passed down in her family, now recognizing their magical potential thanks to the cataclysm's awakening.
+
+In the years since, Ylva falls into a deep depression, and Hjordis wants nothing to do with it. She goes silent for the first time, leaving Ylva with a half dragon body and no home to return to. After a few years, they agree to work together to try to find a way to separate, so Hjordis can learn more about what's happened.
