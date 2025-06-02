@@ -36,7 +36,6 @@
   },
   "Utilities/Templates/NPC.md": "LiBookTemplate",
   "Places/Cities": "LiBuilding2",
-  "Places/Cities/The city that Talric met Tiyeme.md": "LiCircleDashed",
   "Places": {
     "iconName": "LiMapPin",
     "iconColor": "#a69473"
@@ -65,5 +64,6 @@
   "People/Players/Tiyeme Assisi.md": "LiUserCircle",
   "People/Players/Ylva.md": "LiUserCircle",
   "People/Players/Noro.md": "LiUserCircle",
-  "People/Players/Demiel Whym.md": "LiUserCircle"
+  "People/Players/Demiel Whym.md": "LiUserCircle",
+  "Places/Cities/Valeward.md": "LiCircleDashed"
 }

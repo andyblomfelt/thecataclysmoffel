@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Second World.md",
+                "file": "Places/Cities/Valeward.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Second World"
+              "title": "Valeward"
             }
           },
           {
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Second World.md",
+                "file": "Places/Cities/Valeward.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Second World"
+              "title": "Graph of Valeward"
             }
           },
           {
@@ -245,12 +245,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Second World.md",
+                "file": "Places/Cities/Valeward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Second World"
+              "title": "Outgoing links from Valeward"
             }
           },
           {
@@ -343,28 +343,28 @@
   },
   "active": "d789a8fdad70b17a",
   "lastOpenFiles": [
-    "First World.md",
+    "Places/Cities/Port Almasha.md",
+    "Governments/Calbraithe.md",
+    "Places/Cities/Calbrithane.md",
+    "People/Players/Demiel Whym.md",
+    "People/Players/Tiyeme Assisi.md",
+    "01 - Sessions/1 - June 1st, 2025.md",
+    "People/Boding.md",
     "The Second World.md",
+    "First World.md",
     "People/Hjordis.md",
     "The Third World.md",
     "People/Players/Ylva.md",
     "conflict-files-obsidian-git.md",
-    "People/Boding.md",
     "Organizations/Trusto's Business",
     "Organizations/The Barons.md",
-    "People/Players/Demiel Whym.md",
     "Utilities/Rumors.canvas",
-    "People/Players/Tiyeme Assisi.md",
-    "01 - Sessions/1 - June 1st, 2025.md",
     "Places/Cities/Dalvareth.md",
-    "Places/Cities/Calbrithane.md",
     "Places/Businesses/The Flimsy Fogbank.md",
-    "Governments/Calbraithe.md",
     "01 - Sessions/0 - May 29, 2025.md",
     "Places/Mahaz Ridge.md",
     "Utilities/Overview.md",
-    "Places/Cities/The city that Talric met Tiyeme.md",
-    "Places/Cities/Port Almasha.md",
+    "Places/Cities/Valeward.md",
     "Places/Cities/Leithe.md",
     "People/Kaela.md",
     "People/Lunas Verrin.md",
