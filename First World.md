@@ -1,0 +1,1 @@
+An era when the [[Dragon Sovereigns]] ruled over the world as peaceful gods, and magic was accessible by everyday people. At the end of this era, [[The Saints]], who had constructed massive sigil cities to siphon the world's magical power, went to war with the [[Dragon Sovereigns]] and won, marking their ascension and beginning of [[The Second World]]

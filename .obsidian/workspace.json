@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Players/Ylva.md",
+                "file": "The Second World.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ylva"
+              "title": "The Second World"
             }
           },
           {
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Players/Ylva.md",
+                "file": "The Second World.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ylva"
+              "title": "Graph of The Second World"
             }
           },
           {
@@ -245,12 +245,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Players/Ylva.md",
+                "file": "The Second World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ylva"
+              "title": "Outgoing links from The Second World"
             }
           },
           {
@@ -343,10 +343,13 @@
   },
   "active": "d789a8fdad70b17a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "People/Players/Ylva.md",
-    "People/Boding.md",
+    "First World.md",
+    "The Second World.md",
     "People/Hjordis.md",
+    "The Third World.md",
+    "People/Players/Ylva.md",
+    "conflict-files-obsidian-git.md",
+    "People/Boding.md",
     "Organizations/Trusto's Business",
     "Organizations/The Barons.md",
     "People/Players/Demiel Whym.md",
@@ -368,9 +371,6 @@
     "People/Players/Noro.md",
     "Places/Yarra.md",
     "People/Players/Ewan Reid.md",
-    "Places/Fel.md",
-    "Utilities/Example names.md",
-    "The Third World.md",
     "Utilities/port_almasha.png",
     "01 - Sessions",
     "Places/Businesses",

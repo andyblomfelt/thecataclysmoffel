@@ -1,0 +1,3 @@
+The era between 0 AC (post-ascension) and 713 AC, where [[The Saints]] (unbeknownst to the people) used magical energy sealed off from the general world to power their own immortality. The [[Dragon Sovereigns]] are sealed away (except for [[Hjordis]]), and people eventually forget about the existence of magic. [[The Saints]] work to make sure no one knows too much about magic, and the people just begin to industrialize before [[The Cataclysm]] marked the beginning of [[The Third World]].
+
+During this era, [[The Rebellion]] builds up a presence thanks to industrialization, and (unbeknownst to most people), triggers the bombing of [[Leithe]] and overloads the leylines, causing [[The Cataclysm]].
