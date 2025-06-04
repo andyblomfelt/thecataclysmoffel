@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Cities/Valeward.md",
+                "file": "01 - Sessions/1 - June 1st, 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Valeward"
+              "title": "1 - June 1st, 2025"
             }
           },
           {
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Places/Cities/Valeward.md",
+                "file": "01 - Sessions/1 - June 1st, 2025.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,11 +220,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.713275462622442,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Valeward"
+              "title": "Graph of 1 - June 1st, 2025"
             }
           },
           {
@@ -245,12 +245,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Cities/Valeward.md",
+                "file": "01 - Sessions/1 - June 1st, 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Valeward"
+              "title": "Outgoing links from 1 - June 1st, 2025"
             }
           },
           {
@@ -327,7 +327,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 987.5
+    "width": 474.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,14 +341,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d789a8fdad70b17a",
+  "active": "d9313f28e5f64704",
   "lastOpenFiles": [
+    "People/Players/Demiel Whym.md",
+    "01 - Sessions/1 - June 1st, 2025.md",
+    "Places/Cities/Valeward.md",
     "Places/Cities/Port Almasha.md",
     "Governments/Calbraithe.md",
     "Places/Cities/Calbrithane.md",
-    "People/Players/Demiel Whym.md",
     "People/Players/Tiyeme Assisi.md",
-    "01 - Sessions/1 - June 1st, 2025.md",
     "People/Boding.md",
     "The Second World.md",
     "First World.md",
@@ -364,7 +365,6 @@
     "01 - Sessions/0 - May 29, 2025.md",
     "Places/Mahaz Ridge.md",
     "Utilities/Overview.md",
-    "Places/Cities/Valeward.md",
     "Places/Cities/Leithe.md",
     "People/Kaela.md",
     "People/Lunas Verrin.md",
