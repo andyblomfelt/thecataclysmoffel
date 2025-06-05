@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "2fe89f5afe1015ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Sessions/1 - June 1st, 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1 - June 1st, 2025"
+            }
+          },
+          {
             "id": "8b6c6282df153a12",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -341,10 +365,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9313f28e5f64704",
+  "active": "2fe89f5afe1015ab",
   "lastOpenFiles": [
-    "People/Players/Demiel Whym.md",
+    "conflict-files-obsidian-git.md",
     "01 - Sessions/1 - June 1st, 2025.md",
+    "People/Players/Demiel Whym.md",
     "Places/Cities/Valeward.md",
     "Places/Cities/Port Almasha.md",
     "Governments/Calbraithe.md",
@@ -356,7 +381,6 @@
     "People/Hjordis.md",
     "The Third World.md",
     "People/Players/Ylva.md",
-    "conflict-files-obsidian-git.md",
     "Organizations/Trusto's Business",
     "Organizations/The Barons.md",
     "Utilities/Rumors.canvas",
