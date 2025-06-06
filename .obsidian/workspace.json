@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Line Six.md",
+                "file": "Relne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Line Six"
+              "title": "Relne"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organizations/Line Six.md",
+                "file": "Relne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Line Six"
+              "title": "Graph of Relne"
             }
           },
           {
@@ -318,11 +318,24 @@
   },
   "active": "85375192c7096bc6",
   "lastOpenFiles": [
-    "Trusto.md",
-    "Organizations/Line Six.md",
-    "Places/Milvenna.md",
+    "Pasted image 20250605234412.png",
+    "People/Trusto.md",
+    "Relne.md",
+    "People/The Saints/Uriel.md",
+    "People/Dragon Soverigns",
+    "People/The Saints",
+    "Pasted image 20250605230809.png",
     "Places/Cities/Port Almasha.md",
-    "Organizations/The Barons.md",
+    "Organizations/The Barons of Port Almasha.md",
+    "Port Almasha.png",
+    "Utilities/Fel.svg.svg",
+    "Organizations/Line Six.md",
+    "Utilities/Fel.png.png",
+    "Places/Fel.md",
+    "Utilities/port_almasha.png",
+    "download.jpg",
+    "People/Kaela.md",
+    "Places/Milvenna.md",
     "People/Players/Ylva.md",
     "The Red Maw.md",
     "Places/Mahaz Ridge.md",
@@ -337,34 +350,21 @@
     "People/Boding.md",
     "The Second World.md",
     "First World.md",
-    "People/Hjordis.md",
+    "People/Dragon Soverigns/Hjordis.md",
     "The Third World.md",
     "Organizations/Trusto's Business",
     "Utilities/Rumors.canvas",
-    "Places/Cities/Dalvareth.md",
-    "Places/Businesses/The Flimsy Fogbank.md",
-    "01 - Sessions/0 - May 29, 2025.md",
-    "Utilities/Overview.md",
-    "Places/Cities/Leithe.md",
-    "Utilities/port_almasha.png",
     "01 - Sessions",
     "Places/Businesses",
     "Utilities/Templates",
     "Writings",
     "Places/Cities",
     "People/Players",
-    "Utilities/Fel.svg.svg",
-    "Utilities/Fel.png.png",
     "Utilities",
-    "Places",
-    "Events",
     "Organizations/Untitled.canvas",
     "Pasted image 20250406132133.png",
     "Pasted image 20250406134413.png",
     "Utility/Pasted image 20250406131433.png",
-    "Utility/Pasted image 20250406115732.png",
-    "Utility/Pasted image 20250406121557.png",
-    "Utility/Pasted image 20250406120027.png",
-    "Utility/Pasted image 20250406120003.png"
+    "Utility/Pasted image 20250406115732.png"
   ]
 }

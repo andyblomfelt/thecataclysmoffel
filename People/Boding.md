@@ -1,1 +1,1 @@
-Owes a debt to [[The Barons]] that Noro works for. Has with him a compass that he claims leads to ruins that predate the ascension, apparently no one could access it before the cataclysm.
+Owes a debt to [[The Barons of Port Almasha]] that Noro works for. Has with him a compass that he claims leads to ruins that predate the ascension, apparently no one could access it before the cataclysm.
