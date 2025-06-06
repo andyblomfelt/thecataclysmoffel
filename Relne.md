@@ -1,1 +1,0 @@
-![[Pasted image 20250605234412.png|left|300]] Son of [[Trusto]]

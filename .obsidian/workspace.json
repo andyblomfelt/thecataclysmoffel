@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relne.md",
+                "file": "Places/Businesses/Trusto's Gallery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Relne"
+              "title": "Trusto's Gallery"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Relne.md",
+                "file": "Places/Businesses/Trusto's Gallery.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Relne"
+              "title": "Graph of Trusto's Gallery"
             }
           },
           {
@@ -318,22 +318,29 @@
   },
   "active": "85375192c7096bc6",
   "lastOpenFiles": [
-    "Pasted image 20250605234412.png",
+    "People/Relne.md",
+    "People/Talric.md",
+    "Places/Businesses/Trusto's Gallery.md",
     "People/Trusto.md",
-    "Relne.md",
+    "Halur.md",
+    "download.jpg",
+    "Pasted image 20250605235253.png",
+    "Pasted image 20250605235702.png",
+    "Pasted image 20250605235720.png",
+    "Pasted image 20250605234412.png",
+    "Pasted image 20250605230809.png",
+    "Port Almasha.png",
+    "Mei.md",
     "People/The Saints/Uriel.md",
     "People/Dragon Soverigns",
     "People/The Saints",
-    "Pasted image 20250605230809.png",
     "Places/Cities/Port Almasha.md",
     "Organizations/The Barons of Port Almasha.md",
-    "Port Almasha.png",
     "Utilities/Fel.svg.svg",
     "Organizations/Line Six.md",
     "Utilities/Fel.png.png",
     "Places/Fel.md",
     "Utilities/port_almasha.png",
-    "download.jpg",
     "People/Kaela.md",
     "Places/Milvenna.md",
     "People/Players/Ylva.md",
@@ -349,9 +356,6 @@
     "People/Players/Tiyeme Assisi.md",
     "People/Boding.md",
     "The Second World.md",
-    "First World.md",
-    "People/Dragon Soverigns/Hjordis.md",
-    "The Third World.md",
     "Organizations/Trusto's Business",
     "Utilities/Rumors.canvas",
     "01 - Sessions",
@@ -361,10 +365,6 @@
     "Places/Cities",
     "People/Players",
     "Utilities",
-    "Organizations/Untitled.canvas",
-    "Pasted image 20250406132133.png",
-    "Pasted image 20250406134413.png",
-    "Utility/Pasted image 20250406131433.png",
-    "Utility/Pasted image 20250406115732.png"
+    "Organizations/Untitled.canvas"
   ]
 }

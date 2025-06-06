@@ -1,0 +1,1 @@
+![[Pasted image 20250605235720.png|left|300]] Another member of [[Trusto's Gallery]], in charge of gathering intel on potential artifacts.
