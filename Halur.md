@@ -1,1 +1,1 @@
-![[Pasted image 20250605235253.png|left|300]] Ex-professor from [[Leithe]], who does appraisal for [[Trusto's Gallery]].
+![[Pasted image 20250605235253.png|left|300]] Ex-professor from [[Leithe]], who does appraisal for [[Trusto's Gallery]]. Does not know Demiel's professor

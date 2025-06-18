@@ -8,7 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85375192c7096bc6",
+            "id": "0e531a15fcaa64d7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Sessions/3 - June 14, 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "3 - June 14, 2025"
+            }
+          },
+          {
+            "id": "56378968b4867699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mirrathine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mirrathine"
+            }
+          },
+          {
+            "id": "a2f8890b31004b46",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +82,12 @@
             }
           },
           {
-            "id": "d789a8fdad70b17a",
+            "id": "4aa3a723f342d35c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Red Maw.md",
+                "file": "People/Relne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +102,127 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Red Maw"
+              "title": "Relne"
+            }
+          },
+          {
+            "id": "21112f329abb35b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Catacombs of Port Almasha.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Catacombs of Port Almasha"
+            }
+          },
+          {
+            "id": "1341373dae94b2b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Cities/Port Almasha.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Port Almasha"
+            }
+          },
+          {
+            "id": "c88933ea5e928483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stardew.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stardew"
+            }
+          },
+          {
+            "id": "775daa21fab7b69a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stardust.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stardust"
+            }
+          },
+          {
+            "id": "c2aa41a251796b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stardust.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stardust"
             }
           }
         ]
@@ -171,7 +341,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Places/Businesses/Trusto's Gallery.md",
+                "file": "People/Lunas Verrin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +369,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Trusto's Gallery"
+              "title": "Graph of Lunas Verrin"
             }
           },
           {
@@ -316,13 +486,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85375192c7096bc6",
+  "active": "0e531a15fcaa64d7",
   "lastOpenFiles": [
     "People/Relne.md",
-    "People/Talric.md",
+    "01 - Sessions/3 - June 14, 2025.md",
+    "Stardust.md",
+    "Stardew.md",
+    "Catacombs of Port Almasha.md",
+    "Places/Cities/Port Almasha.md",
     "Places/Businesses/Trusto's Gallery.md",
-    "People/Trusto.md",
+    "Mirrathine.md",
+    "01 - Sessions/1 - June 1st, 2025.md",
+    "Places/Businesses/The Flimsy Fogbank.md",
     "Halur.md",
+    "01 - Sessions/2 - June 8, 2025.md",
+    "People/Players/Tiyeme Assisi.md",
+    "Pasted image 20250612141934.png",
+    "People/Dragon Soverigns/Hjordis.md",
+    "01 - Sessions/0 - May 29, 2025.md",
+    "People/Lunas Verrin.md",
+    "People/Players/Ewan Reid.md",
+    "People/The Saints/Uriel.md",
+    "People/Trusto.md",
+    "Organizations/The Red Maw.md",
+    "Thieves' Guild.md",
+    "People/Players/Noro.md",
+    "People/Talric.md",
     "download.jpg",
     "Pasted image 20250605235253.png",
     "Pasted image 20250605235702.png",
@@ -331,31 +520,12 @@
     "Pasted image 20250605230809.png",
     "Port Almasha.png",
     "Mei.md",
-    "People/The Saints/Uriel.md",
     "People/Dragon Soverigns",
     "People/The Saints",
-    "Places/Cities/Port Almasha.md",
     "Organizations/The Barons of Port Almasha.md",
     "Utilities/Fel.svg.svg",
     "Organizations/Line Six.md",
     "Utilities/Fel.png.png",
-    "Places/Fel.md",
-    "Utilities/port_almasha.png",
-    "People/Kaela.md",
-    "Places/Milvenna.md",
-    "People/Players/Ylva.md",
-    "The Red Maw.md",
-    "Places/Mahaz Ridge.md",
-    "People/Lunas Verrin.md",
-    "01 - Sessions/1 - June 1st, 2025.md",
-    "conflict-files-obsidian-git.md",
-    "People/Players/Demiel Whym.md",
-    "Places/Cities/Valeward.md",
-    "Governments/Calbraithe.md",
-    "Places/Cities/Calbrithane.md",
-    "People/Players/Tiyeme Assisi.md",
-    "People/Boding.md",
-    "The Second World.md",
     "Organizations/Trusto's Business",
     "Utilities/Rumors.canvas",
     "01 - Sessions",

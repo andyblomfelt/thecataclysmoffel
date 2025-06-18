@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:People/Players  ",
+      "color": {
+        "a": 1,
+        "rgb": 16466241
+      }
+    },
+    {
+      "query": "path:People  ",
+      "color": {
+        "a": 1,
+        "rgb": 6171435
+      }
+    },
+    {
+      "query": "path:Places  ",
+      "color": {
+        "a": 1,
+        "rgb": 10916979
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224432,
+  "scale": 0.7132754626224441,
   "close": false
 }

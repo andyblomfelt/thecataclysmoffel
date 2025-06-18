@@ -7,6 +7,9 @@ It's getting more difficult to find runes in [[Yarra]] due to rapid industrializ
 [[The Barons of Port Almasha]] want more free trade to open up between [[Yarra]] and [[Milvenna]], since people have heard that magical artifacts there are largely untouched. [[Line Six]] currently does expeditions into [[Milvenna]], but are starting to raise their prices and are frustrating [[The Barons of Port Almasha]].  Since [[The Barons of Port Almasha]] are some of the biggest buyers of Commerce Guild goods, they really can't keep them out of [[Port Almasha]], especially when one of the council people *is a baron or is heavily corrupted by one of them*. 
 
 ---
+# History
+Port Almasha was once called "The Port of the Almighty" as translated today, pronounced back then as "Port Almáttki". This was the home of one of the [[Dragon Sovereigns]] named [[Dragon Sovereign that lived in Ancient Almasha]]. There are temples buried under the current infrastructure worshiping this god.
+# Post-Cataclysm
 Only a few months after the Cataclysm, Port Almasha quickly drove out the Calbraithen occupation with the help of an armed citizenry, and a rogue saint sitting on the council of Port Almasha named [[Uriel]]. Fed up with the failure of [[The Saints]] to properly address [[The Rebellion]], she took control of the council of Port Almasha and issued a new system for keeping order in the city post-cataclysm:
 
 Everyone currently living in the city, as well as anyone coming in, is required to wear bands around their wrist that becomes magically bonded on contact. These bands will suppress magic unless you have a license granted to you by the [[The Arcanum]], a collection of trusted mages by [[Uriel]]. The license system is added to build trust with the citizenry, but ultimately [[Uriel]] is the only one who can approve people who apply (so that she can make sure they can be controlled).

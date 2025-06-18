@@ -1,4 +1,4 @@
-Leader of [[The Red Maw]] bandit group
+ Leader of [[The Red Maw]] bandit group
 Member of the [[Scars of Calbraithe]]
 Old trainer for the [[Calbraithen Army]], and trained [[Ewan Reid]] when he first joined the army
 # Stats

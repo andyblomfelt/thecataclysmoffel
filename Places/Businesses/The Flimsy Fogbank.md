@@ -1,1 +1,0 @@
-Tavern in [[Dalvareth]]
