@@ -136,7 +136,7 @@
               "type": "markdown",
               "state": {
                 "file": "Places/Cities/Port Almasha.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -152,80 +152,9 @@
               "icon": "lucide-file",
               "title": "Port Almasha"
             }
-          },
-          {
-            "id": "c88933ea5e928483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stardew.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stardew"
-            }
-          },
-          {
-            "id": "775daa21fab7b69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stardust.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stardust"
-            }
-          },
-          {
-            "id": "c2aa41a251796b88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stardust.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stardust"
-            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -341,7 +270,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Lunas Verrin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -369,7 +297,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lunas Verrin"
+              "title": "Graph view"
             }
           },
           {
@@ -486,55 +414,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e531a15fcaa64d7",
+  "active": "d9313f28e5f64704",
   "lastOpenFiles": [
-    "People/Relne.md",
-    "01 - Sessions/3 - June 14, 2025.md",
-    "Stardust.md",
-    "Stardew.md",
-    "Catacombs of Port Almasha.md",
     "Places/Cities/Port Almasha.md",
-    "Places/Businesses/Trusto's Gallery.md",
-    "Mirrathine.md",
-    "01 - Sessions/1 - June 1st, 2025.md",
-    "Places/Businesses/The Flimsy Fogbank.md",
-    "Halur.md",
-    "01 - Sessions/2 - June 8, 2025.md",
-    "People/Players/Tiyeme Assisi.md",
-    "Pasted image 20250612141934.png",
-    "People/Dragon Soverigns/Hjordis.md",
-    "01 - Sessions/0 - May 29, 2025.md",
-    "People/Lunas Verrin.md",
+    "Places/Almasha.md",
+    "Organizations/Calbraithen Army.md",
+    "01 - Sessions/3 - June 14, 2025.md",
+    "Organizations/Cendreval.md",
+    "Organizations/The Arcanum.md",
+    "Events/Stardew.md",
+    "Items/Mirrathine.md",
+    "Places/Dureya.md",
+    "Events/Stardust.md",
+    "People/Line Six/Kaela.md",
+    "Utilities/Vault color palette.md",
+    "People/Trusto's Gallery/Halur.md",
+    "People/Line Six",
+    "People/Line Six/Sorchan Varr.md",
+    "People/Players/Demiel Whym.md",
     "People/Players/Ewan Reid.md",
-    "People/The Saints/Uriel.md",
-    "People/Trusto.md",
-    "Organizations/The Red Maw.md",
-    "Thieves' Guild.md",
-    "People/Players/Noro.md",
+    "People/Trusto's Gallery/Relne.md",
+    "Places/Velmire.md",
+    "People/Dragon Soverigns/Loki.md",
+    "People/Dragon Soverigns/Thor.md",
+    "People/Dragon Soverigns/Odin.md",
+    "Utilities/Photos/Pasted image 20250605230809.png",
+    "Utilities/Photos/Fel.png.png",
+    "Utilities/Photos",
+    "Places/Catacombs of Port Almasha.md",
+    "Utilities/download.jpg",
+    "Items",
+    "Places/Untitled",
+    "Events/The First World.md",
+    "People/Trusto's Gallery/Trusto.md",
     "People/Talric.md",
-    "download.jpg",
-    "Pasted image 20250605235253.png",
-    "Pasted image 20250605235702.png",
-    "Pasted image 20250605235720.png",
-    "Pasted image 20250605234412.png",
-    "Pasted image 20250605230809.png",
-    "Port Almasha.png",
-    "Mei.md",
+    "People/Trusto's Gallery",
+    "Places/Businesses/Layla's.md",
+    "Utilities/Photos/Pasted image 20250612141934.png",
+    "Utilities/Photos/Pasted image 20250605235253.png",
+    "Utilities/Photos/Pasted image 20250605235702.png",
+    "Utilities/Photos/Pasted image 20250605235720.png",
+    "Utilities/Photos/Pasted image 20250605234412.png",
+    "Utilities/Photos/Port Almasha.png",
     "People/Dragon Soverigns",
     "People/The Saints",
-    "Organizations/The Barons of Port Almasha.md",
-    "Utilities/Fel.svg.svg",
-    "Organizations/Line Six.md",
-    "Utilities/Fel.png.png",
+    "Utilities/Photos/Fel.svg.svg",
     "Organizations/Trusto's Business",
     "Utilities/Rumors.canvas",
     "01 - Sessions",
     "Places/Businesses",
-    "Utilities/Templates",
-    "Writings",
-    "Places/Cities",
-    "People/Players",
-    "Utilities",
     "Organizations/Untitled.canvas"
   ]
 }

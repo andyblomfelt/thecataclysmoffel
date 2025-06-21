@@ -1,0 +1,66 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "VoFp3KGb8Suk8vE4F2MkR",
+      "name": "Players",
+      "value": "#795049"
+    },
+    {
+      "id": "Fy-14TYru3nv1zBzVTSQU",
+      "name": "Places",
+      "value": "#a69473"
+    },
+    {
+      "id": "iCYhzstwHaq2bc1Idq7U8",
+      "name": "Events",
+      "value": "#8375a9"
+    },
+    {
+      "id": "LPXvyuC22Mf8J6vJRtq40",
+      "name": "Objects",
+      "value": "#82916f"
+    },
+    {
+      "id": "DqjmQRKHLYa4qaxPW-z-d",
+      "name": "Organizations",
+      "value": "#aabbc9"
+    },
+    {
+      "id": "40guwlXmH3_zrVe1VeITt",
+      "name": "People",
+      "value": "#6d756f"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "People",
+      "color": "40guwlXmH3_zrVe1VeITt"
+    },
+    {
+      "path": "Places",
+      "color": "Fy-14TYru3nv1zBzVTSQU"
+    },
+    {
+      "path": "Organizations",
+      "color": "DqjmQRKHLYa4qaxPW-z-d"
+    },
+    {
+      "path": "Items",
+      "color": "LPXvyuC22Mf8J6vJRtq40"
+    },
+    {
+      "path": "Events",
+      "color": "iCYhzstwHaq2bc1Idq7U8"
+    },
+    {
+      "path": "People/Players",
+      "color": "VoFp3KGb8Suk8vE4F2MkR"
+    },
+    {
+      "path": "01 - Sessions",
+      "color": "VoFp3KGb8Suk8vE4F2MkR"
+    }
+  ]
+}

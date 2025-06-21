@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBookOpen",
-      "LiCircleDashed",
-      "LiBriefcaseBusiness",
-      "LiCircleOff",
-      "LiMap"
+      "LiChurch",
+      "LiCalendar",
+      "LiPentagon",
+      "LiBox",
+      "LiBookOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,7 +40,6 @@
     "iconName": "LiMapPin",
     "iconColor": "#a69473"
   },
-  "People/Players": "LiUserCircle",
   "People": {
     "iconName": "LiUser",
     "iconColor": "#6d756f"
@@ -49,19 +48,29 @@
   "Organizations/Rebellion.md": "LiCircleDashed",
   "Organizations/The Paladins of Calbraithe.md": "LiCircleDashed",
   "Organizations/The Saints.md": "LiCircleDashed",
-  "Governments/Calbraithe.md": "LiCircleDashed",
   "Places/Cities/Leithe.md": "LiCircleDashed",
   "Places/Cities/Dalvareth.md": "LiCircleDashed",
   "Places/Cities/Calbrithane.md": "LiCircleDashed",
   "Places/Businesses": "LiBriefcaseBusiness",
   "Events/The Cataclysm.md": "LiCircleDashed",
-  "01 - Sessions": "LiBookOpen",
+  "01 - Sessions": {
+    "iconName": "LiBookOpen",
+    "iconColor": "#795049"
+  },
   "Organizations/Scars of Calbraithe.md": "LiCircleDashed",
   "Organizations/Line Six.md": "LiCircleDashed",
-  "People/Players/Ewan Reid.md": "LiUserCircle",
-  "People/Players/Tiyeme Assisi.md": "LiUserCircle",
-  "People/Players/Ylva.md": "LiUserCircle",
-  "People/Players/Noro.md": "LiUserCircle",
-  "People/Players/Demiel Whym.md": "LiUserCircle",
-  "Places/Cities/Valeward.md": "LiCircleDashed"
+  "Places/Cities/Valeward.md": "LiCircleDashed",
+  "Items": {
+    "iconName": "LiBox",
+    "iconColor": "#82916f"
+  },
+  "Organizations": {
+    "iconName": "LiChurch",
+    "iconColor": "#aabbc9"
+  },
+  "Events": {
+    "iconName": "LiCalendar",
+    "iconColor": "#8375a9"
+  },
+  "Organizations/Calbraithe.md": "LiCircleDashed"
 }

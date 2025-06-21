@@ -1,0 +1,1 @@
+A tavern owned by [[Trusto]], named after his late wife.

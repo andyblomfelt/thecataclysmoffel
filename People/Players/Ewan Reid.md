@@ -4,6 +4,8 @@ Parents:
   - "[[Bonnie Reid]]"
   - "[[Alastair Reid]]"
 Age: "30"
+aliases:
+  - Ewan
 ---
 Born in 691 A.C. to [[Alastair Reid]] and [[Bonnie Reid]] in the township of [[Dalvareth]], under the stewardship of the Kingdom of [[Calbraithe]]. Ewan has always had his mother’s temper, but he was always interested in the lives and stories of others. His fascination and passion, along with rebellious instinct, made him very quick to latch on strongly to ideas and beliefs; a trait which made him very susceptible to the anti-[[French]] rhetoric of Calbraithen propaganda, much to his parent’s dismay. His parents had been born after the war had begun; they held no innate sympathy for the nation of [[France]], but they had hoped that their children would grow into a Calbraithe that knew peace. Ewan’s indoctrination would happen primarily within the walls of [[The Flimsy Fogbank]], a common hotspot for Calbraithen soldiers and idealogues. As he heard tales of the “monstrous” [[French]] soldiers and the “heroics” of his fellow countrymen, he began to staunchly cling to the ideals of Calbraithen superiority and [[French]] degeneracy.
 # The Attack on Dalvareth
