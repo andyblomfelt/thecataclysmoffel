@@ -135,8 +135,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Cities/Port Almasha.md",
-                "mode": "preview",
+                "file": "01 - Sessions/4 - June 29, 2025.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -150,7 +150,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Port Almasha"
+              "title": "4 - June 29, 2025"
             }
           }
         ],
@@ -270,6 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01 - Sessions/4 - June 29, 2025.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -297,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 4 - June 29, 2025"
             }
           },
           {
@@ -414,8 +415,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9313f28e5f64704",
+  "active": "1341373dae94b2b5",
   "lastOpenFiles": [
+    "Items/Stardust.md",
+    "Items/Stardew.md",
+    "01 - Sessions/4 - June 29, 2025.md",
     "Places/Cities/Port Almasha.md",
     "Places/Almasha.md",
     "Organizations/Calbraithen Army.md",
@@ -446,10 +450,7 @@
     "Items",
     "Places/Untitled",
     "Events/The First World.md",
-    "People/Trusto's Gallery/Trusto.md",
-    "People/Talric.md",
     "People/Trusto's Gallery",
-    "Places/Businesses/Layla's.md",
     "Utilities/Photos/Pasted image 20250612141934.png",
     "Utilities/Photos/Pasted image 20250605235253.png",
     "Utilities/Photos/Pasted image 20250605235702.png",
