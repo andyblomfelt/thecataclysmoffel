@@ -6,3 +6,16 @@ During [[The Second World]], they held positions of near godhood over the world.
 
 Since [[The Cataclysm]] and during [[The Third World]], the Saints have gone into hiding. It's unknown at this point what they're trying to accomplish.
 
+Uriel
+Shubael
+Raziel
+Cassiel
+Zadkiel
+Camael (Cam-ai-el)
+Michael
+Haniel
+Raphael
+Jophiel
+Gabriel
+Azrael
+Hidden thirteenth one
