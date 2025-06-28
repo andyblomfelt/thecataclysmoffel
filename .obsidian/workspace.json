@@ -152,9 +152,33 @@
               "icon": "lucide-file",
               "title": "4 - June 29, 2025"
             }
+          },
+          {
+            "id": "eaf3d48e99e68fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Vault color palette.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vault color palette"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -270,7 +294,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Sessions/4 - June 29, 2025.md",
+                "file": "Utilities/Vault color palette.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -298,7 +322,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 4 - June 29, 2025"
+              "title": "Graph of Vault color palette"
             }
           },
           {
@@ -401,7 +425,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 901.5
+    "width": 784.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -415,15 +439,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1341373dae94b2b5",
+  "active": "eaf3d48e99e68fa9",
   "lastOpenFiles": [
+    "01 - Sessions/4 - June 29, 2025.md",
+    "01 - Sessions/3 - June 14, 2025.md",
     "Items/Stardust.md",
     "Items/Stardew.md",
-    "01 - Sessions/4 - June 29, 2025.md",
     "Places/Cities/Port Almasha.md",
     "Places/Almasha.md",
     "Organizations/Calbraithen Army.md",
-    "01 - Sessions/3 - June 14, 2025.md",
     "Organizations/Cendreval.md",
     "Organizations/The Arcanum.md",
     "Events/Stardew.md",
