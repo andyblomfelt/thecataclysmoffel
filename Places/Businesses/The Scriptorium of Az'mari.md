@@ -1,10 +1,9 @@
 The Az'mari Collection is a library inside [[The Arcanum]], open to the public for a small fee.
 
 # People
-[[Kireh Lanassei]] is a junior archivist, working closely with the small group secretly doing forbidden research at the Arcanum. She heard the update on the evening of Day 2 regarding Ylva's presence in the city, and will recognize her if brought into the Scriptorium. 
+[[Ziri Lanassei]] is a junior archivist, working closely with the small group secretly doing forbidden research at the Arcanum. She heard the update on the evening of Day 2 regarding Ylva's presence in the city, and will recognize her if brought into the Scriptorium. 
 
 # Available information
-
 ## DC 10
 - Calbraithe annexed Port Almasha during a war-time stalemate. The annexation came in exchange for rail development and military infrastructure.
 - The workers, scholars, and regular merchants of Port Almasha rebelled and reclaimed independence shortly after the Cataclysm. The House of Almasha quickly took the side of the people, to make sure it didn't get out of hand.
