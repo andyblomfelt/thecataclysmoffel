@@ -1,0 +1,5 @@
+A member of [[The Arcanum]] who frequents [[Layla's]]. He does not wear a suppression band, as the higher ups at the Arcanum do not have to wear them.
+
+Mateo was once partners with [[Halur]] at [[The Arcanum]], before it was taken over by [[Uriel]]. They worked together to do initial research on draconic crystals and material magic, and eventually created the first prototypes of [[Stardew]]. Mateo immedately started realizing the potential of this on darker markets, while [[Halur]] was having none of it, focused on how he could use it to help *solve the research [[Layla]] was after.* For the rest of their time at the arcanum, their relationship grew apart, as Mateo began distributing the dust and refining it.
+
+[[Uriel]] came into the arcanum, and forced a good chunk of the researchers out, including [[Halur]] and Mateo. 
