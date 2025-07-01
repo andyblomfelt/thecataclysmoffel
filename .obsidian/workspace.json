@@ -200,9 +200,22 @@
               "icon": "lucide-file",
               "title": "Tiyeme Assisi"
             }
+          },
+          {
+            "id": "00969a2b55dfcbab",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "01 - Sessions/4 - June 29, 2025.md",
+                "bFile": "01 - Sessions/4 - June 29, 2025.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 4 - June 29, 2025"
+            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -463,11 +476,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b06993be77d98c37",
+  "active": "eaf3d48e99e68fa9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "People/Players/Tiyeme Assisi.md",
     "01 - Sessions/4 - June 29, 2025.md",
     "People/Players/Ylva.md",
-    "People/Players/Tiyeme Assisi.md",
     "People/Players/Noro.md",
     "People/Players/Ewan Reid.md",
     "People/Players/Demiel Whym.md",
@@ -490,7 +504,6 @@
     "Places/Dureya.md",
     "Events/Stardust.md",
     "People/Line Six/Kaela.md",
-    "People/Trusto's Gallery/Halur.md",
     "People/Line Six",
     "Utilities/Photos/Pasted image 20250605230809.png",
     "Utilities/Photos/Fel.png.png",
