@@ -2,7 +2,7 @@
 aliases: 
 Gender & Pronouns: Male, he/him
 Age: "42"
-Sexuality: Gay
+Sexuality: Straight
 Languages: 
 Occupation/Organization: 
 Owned Locations: 
@@ -18,5 +18,5 @@ After meeting up with [[Tiyeme Assisi]] at a local tavern in [[Valeward]], he's 
 - Retake the palace of [[Calbrithane]] with the help of [[Ewan Reid]] once he shows him a restored power
 # Connections
 - Captain of the [[The Paladins of Calbraithe]], specifically of [[Ewan Reid]]. Thought he was the only one who could truly understand him, and was heartbroken when he left.
-- Met [[Tiyeme Assisi]] at a tavern in [[Valeward]], where he mentioned [[Some important NPC on a train]] that he thinks could be one of the Saints.
+- Met [[Tiyeme Assisi]] at a tavern in [[Valeward]], where he mentioned [[Kaela]] that he thinks could be one of the Saints.
 # History
