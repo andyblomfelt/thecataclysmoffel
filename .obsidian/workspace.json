@@ -34,6 +34,54 @@
             }
           },
           {
+            "id": "25af7c625d210daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Sessions/4 - June 29, 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4 - June 29, 2025"
+            }
+          },
+          {
+            "id": "adf2e3f6c4dd2cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Sessions/4 - June 29, 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4 - June 29, 2025"
+            }
+          },
+          {
             "id": "ee53df583db20713",
             "type": "leaf",
             "state": {
@@ -214,8 +262,33 @@
               "icon": "diff",
               "title": "Diff: 4 - June 29, 2025"
             }
+          },
+          {
+            "id": "9d949defadc07963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Businesses/The Scriptorium of Az'mari.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Scriptorium of Az'mari"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -476,23 +549,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eaf3d48e99e68fa9",
+  "active": "25af7c625d210daa",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "People/Players/Tiyeme Assisi.md",
     "01 - Sessions/4 - June 29, 2025.md",
+    "Places/Businesses/The Scriptorium of Az'mari.md",
+    "People/Mateo.md",
+    "People/The Saints/Uriel.md",
+    "Places/Cities/Port Almasha.md",
+    "01 - Sessions/5 - July 6, 2025.md",
+    "People/Players/Tiyeme Assisi.md",
     "People/Players/Ylva.md",
     "People/Players/Noro.md",
     "People/Players/Ewan Reid.md",
     "People/Players/Demiel Whym.md",
     "01 - Sessions/0 - May 29, 2025.md",
     "01 - Sessions/3 - June 14, 2025.md",
-    "Places/Cities/Port Almasha.md",
     "Ziri Lanassei.md",
     "Items/Stardew.md",
     "Almasha Grand Station.md",
     "Utilities/Vault color palette.md",
-    "Places/Businesses/The Scriptorium of Az'mari.md",
     "Utilities/Overview.md",
     "Items/Stardust.md",
     "Places/Almasha.md",
@@ -501,9 +577,6 @@
     "Organizations/The Arcanum.md",
     "Events/Stardew.md",
     "Items/Mirrathine.md",
-    "Places/Dureya.md",
-    "Events/Stardust.md",
-    "People/Line Six/Kaela.md",
     "People/Line Six",
     "Utilities/Photos/Pasted image 20250605230809.png",
     "Utilities/Photos/Fel.png.png",
