@@ -1,5 +1,7 @@
 The Az'mari Collection is a library inside [[The Arcanum]], open to the public for a small fee.
 
+https://www.patreon.com/posts/56192415
+
 # People
 [[Ziri Lanassei]] is a junior archivist, working closely with the small group secretly doing forbidden research at the Arcanum. She heard the update on the evening of Day 2 regarding Ylva's presence in the city, and will recognize her if brought into the Scriptorium. 
 
