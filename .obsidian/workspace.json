@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Sessions/4 - June 29, 2025.md",
+                "file": "People/Ziri Lanassei.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4 - June 29, 2025"
+              "title": "Ziri Lanassei"
             }
           },
           {
@@ -159,7 +159,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ziri Lanassei.md",
+                "file": "People/Ziri Lanassei.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -247,20 +247,6 @@
               },
               "icon": "lucide-file",
               "title": "Tiyeme Assisi"
-            }
-          },
-          {
-            "id": "00969a2b55dfcbab",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "01 - Sessions/4 - June 29, 2025.md",
-                "bFile": "01 - Sessions/4 - June 29, 2025.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 4 - June 29, 2025"
             }
           },
           {
@@ -404,7 +390,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Places/Businesses/The Scriptorium of Az'mari.md",
+                "file": "People/Ziri Lanassei.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -432,7 +418,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Scriptorium of Az'mari"
+              "title": "Graph of Ziri Lanassei"
             }
           },
           {
@@ -535,7 +521,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 784.5
+    "width": 944.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -549,15 +535,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25af7c625d210daa",
+  "active": "d9313f28e5f64704",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "People/Ziri Lanassei.md",
+    "Utilities/Example names.md",
+    "Utilities/Vault color palette.md",
+    "Utilities/Overview.md",
+    "Utilities/Rumors.canvas",
+    "Utilities/Photos/download.jpg",
     "01 - Sessions/4 - June 29, 2025.md",
     "Places/Businesses/The Scriptorium of Az'mari.md",
+    "01 - Sessions/5 - July 6, 2025.md",
+    "Pasted image 20250704162343.png",
+    "Utilities/Photos/Pasted image 20250704161811.png",
+    "Writings/Newspapers/The Almashan Taliyah.md",
+    "Writings/Newspapers",
+    "People/Layla.md",
+    "conflict-files-obsidian-git.md",
     "People/Mateo.md",
     "People/The Saints/Uriel.md",
     "Places/Cities/Port Almasha.md",
-    "01 - Sessions/5 - July 6, 2025.md",
     "People/Players/Tiyeme Assisi.md",
     "People/Players/Ylva.md",
     "People/Players/Noro.md",
@@ -565,23 +562,16 @@
     "People/Players/Demiel Whym.md",
     "01 - Sessions/0 - May 29, 2025.md",
     "01 - Sessions/3 - June 14, 2025.md",
-    "Ziri Lanassei.md",
     "Items/Stardew.md",
     "Almasha Grand Station.md",
-    "Utilities/Vault color palette.md",
-    "Utilities/Overview.md",
     "Items/Stardust.md",
     "Places/Almasha.md",
     "Organizations/Calbraithen Army.md",
     "Organizations/Cendreval.md",
-    "Organizations/The Arcanum.md",
-    "Events/Stardew.md",
-    "Items/Mirrathine.md",
     "People/Line Six",
     "Utilities/Photos/Pasted image 20250605230809.png",
     "Utilities/Photos/Fel.png.png",
     "Utilities/Photos",
-    "Utilities/download.jpg",
     "Items",
     "Places/Untitled",
     "People/Trusto's Gallery",
@@ -590,14 +580,10 @@
     "Utilities/Photos/Pasted image 20250605235702.png",
     "Utilities/Photos/Pasted image 20250605235720.png",
     "Utilities/Photos/Pasted image 20250605234412.png",
-    "Utilities/Photos/Port Almasha.png",
     "People/Dragon Soverigns",
     "People/The Saints",
-    "Utilities/Photos/Fel.svg.svg",
     "Organizations/Trusto's Business",
-    "Utilities/Rumors.canvas",
     "01 - Sessions",
-    "Places/Businesses",
     "Organizations/Untitled.canvas"
   ]
 }
