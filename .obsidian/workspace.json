@@ -255,7 +255,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Businesses/The Scriptorium of Az'mari.md",
+                "file": "Writings/Newspapers/The Almashan Taliyah.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -270,11 +270,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Scriptorium of Az'mari"
+              "title": "The Almashan Taliyah"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -390,7 +390,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Ziri Lanassei.md",
+                "file": "Writings/Newspapers/The Almashan Taliyah.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -418,7 +418,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ziri Lanassei"
+              "title": "Graph of The Almashan Taliyah"
             }
           },
           {
@@ -537,6 +537,8 @@
   },
   "active": "d9313f28e5f64704",
   "lastOpenFiles": [
+    "Writings/Newspapers/The Almashan Taliyah - Day 3.md",
+    "Places/Businesses/The Scriptorium of Az'mari.md",
     "People/Ziri Lanassei.md",
     "Utilities/Example names.md",
     "Utilities/Vault color palette.md",
@@ -544,7 +546,6 @@
     "Utilities/Rumors.canvas",
     "Utilities/Photos/download.jpg",
     "01 - Sessions/4 - June 29, 2025.md",
-    "Places/Businesses/The Scriptorium of Az'mari.md",
     "01 - Sessions/5 - July 6, 2025.md",
     "Pasted image 20250704162343.png",
     "Utilities/Photos/Pasted image 20250704161811.png",
@@ -567,7 +568,6 @@
     "Items/Stardust.md",
     "Places/Almasha.md",
     "Organizations/Calbraithen Army.md",
-    "Organizations/Cendreval.md",
     "People/Line Six",
     "Utilities/Photos/Pasted image 20250605230809.png",
     "Utilities/Photos/Fel.png.png",
