@@ -3,7 +3,7 @@ Serving the citizens of Almasha and the Azure Coast since 650 A.C.
 
 # Front Page
 ## SUSPECTED CARGO ATTACKS BY THE SCARS OF CALBRAITHE: MULTIPLE FIRED AT DVARSYA STATION
-Rail traffic into Port Almasha faced disruptions yesterday following a brazen bandit attack on an inbound cargo train from Valeward. This incident, marking the third such assault on the crucial route in recent weeks, has spurred the Enforcement Commission into decisive action.
+Rail traffic into Port Almasha faced disruptions yesterday following an attack on an inbound cargo train from Valeward. This incident, marking the third such assault on the crucial route in recent weeks, has sparked the Enforcement Commission into decisive action.
 
 Investigations, spearheaded by Captain Anun Tighnari of the Enforcement Commission, have linked the attack to a rogue cell operating under the banner of the Scars of Calbraithe. While one guard was tragically lost and several others injured during the apprehension efforts, the primary suspect thought responsible for coordinating the assault remains at large. "We are pursuing all leads," stated Captain Tighnari, "and we urge any citizens with information regarding activity by the Scars of Calbraithe in Port Almasha or along the Azure Coast to report it immediately."
 
@@ -12,7 +12,7 @@ Concurrently, a significant number of personnel at Dvarsya Station were dismisse
 The Arcanum will host their 3rd annual licensing exam in 2 weeks, continuing a practice that began 3 years ago when the licensing system was first introduced in Almasha. While the admission rate remains the lowest in the history of The Arcanum, it remains the only opportunity to study magic and it's applications throughout The Port and greater Almasha. Sign up for the exam at the Scriptorium of Az'mari before public sign up closes at the end of this week. 
 ## "AWAKENING" PROCESSION COULD SEE CONTINUED PROTEST ACTIVITY
 Over the past few years, The Arcanum has putting on their own celebration of the awakening of magic throughout the world, celebrating the ways magic continues to improve the lives of Almashan citizens. Protest have erupted at many of these events, however, with organizers saying that "it's all just performative from the Arcanum, they want the benefits of magic for themselves while leaving the rest of us to get addicted to Stardust." Those who plan to attend the Awakening Procession in Ismir Market should plan to have their suppression bracelets clearly visible, as to not be mistaken for illegal protestors. 
-The Leithe Remembrance Guild continues to also host it's own events to remember those that were lost 8 years ago, in contrast to the Arcanum's approach. These remembrance events will be held in the southern quarter of Adho Nadi on the anniversary of the Awakening (the 5th of Imir)
+The Leithe Remembrance Guild continues to also host it's own events to remember those that were lost 8 years ago, in contrast to the Arcanum's approach. These remembrance events will be held in the southern quarter of Adho Nadi on the anniversary of the Awakening (the 5th of Imir).
 
 # Community
 ## SOLSTICE MARKETS BEGIN OPENING
