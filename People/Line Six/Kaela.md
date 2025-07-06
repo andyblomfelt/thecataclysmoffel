@@ -1,13 +1,13 @@
 ---
 aliases: 
 Gender & Pronouns: Woman, she/her
-Age: "25"
+Age: "28"
 Sexuality: Pansexual
 Languages: 
 Occupation/Organization:
   - "[[Line Six]]"
-Owned Locations: 
-Current Location: 
+Owned Locations: Line Six (ship)
+Current Location: Port Almasha
 Condition:
 ---
 # Overview
@@ -18,3 +18,6 @@ Captain of the [[Line Six]] crew. She was able to figure out how to build a magi
 - Find the saint that made the deal with her, they haven't talked 
 # Connections
 # History
+
+Sólsetur
+Hinoiri
