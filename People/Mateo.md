@@ -9,7 +9,7 @@ Owned Locations: [[Mateo's secret lab]]
 Current Location: [[Port Almasha]]
 Condition:
 ---
-# Overview
+![[Pasted image 20250706192929.png|left|300]]# Overview
 Mateo is currently the main supplier of [[Stardust]] acrossed southern [[Yarra]], and a consultant to [[The Arcanum]] in draconic research. He worked out a deal with [[The Arcanum]] where he gets to continue his operation in exchange for his research on *some research that Uriel needs to finish Odin's seal, or something for Talric to be a vessel for draconic power*
 # Appearance
 Mateo is a man with refined, pointed features, exuding an aura of influence and control without being the center of attention. His short black hair is combed over to the left side of his face, barely touching his round sunglasses that shade his eyes even indoors. His chin comes to a noticable point, with a touch of dark, thin facial hair at the bottom. He is often found wearing a white suit with floral accents, to appear as if he's a part of [[The Arcanum]] without wearing the same "uniform" as licensed members.

@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "c045d785b0286e98",
+            "id": "c167d16aa1ea8439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Generic Adversaries/Almashan Enforcement Commission Officer.md",
+                "file": "Writings/Newspapers/The Almashan Taliyah.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,131 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Almashan Enforcement Commission Officer"
+              "title": "The Almashan Taliyah"
             }
           },
           {
-            "id": "b9a3d2b9baab6bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Cities/Port Almasha.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Port Almasha"
-            }
-          },
-          {
-            "id": "81ba6a2723485cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Players/Ylva.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ylva"
-            }
-          },
-          {
-            "id": "9d949defadc07963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Generic Adversaries/Arcanum Watcher.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arcanum Watcher"
-            }
-          },
-          {
-            "id": "cd8ad801d1bc47ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Generic Adversaries/Almashan Enforcement Commission Captain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Almashan Enforcement Commission Captain"
-            }
-          },
-          {
-            "id": "a6ce0032255f71bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Sessions/3 - June 14, 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3 - June 14, 2025"
-            }
-          },
-          {
-            "id": "a06565fab1aaff89",
+            "id": "b74046844caf6bb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,9 +80,81 @@
               "icon": "lucide-file",
               "title": "Kaela"
             }
+          },
+          {
+            "id": "9a42e9c3929a3add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Line Six/Sorchan Varr.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sorchan Varr"
+            }
+          },
+          {
+            "id": "b653a242ea36d3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Sessions/5 - July 6, 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5 - July 6, 2025"
+            }
+          },
+          {
+            "id": "d7c271c32c43ee8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Line Six/Kaela.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kaela"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -449,7 +401,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1068.5
+    "width": 691.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -464,20 +416,30 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "a06565fab1aaff89",
+  "active": "d7c271c32c43ee8c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "People/Line Six/Kaela.md",
+    "01 - Sessions/5 - July 6, 2025.md",
+    "01 - Sessions/3 - June 14, 2025.md",
+    "01 - Sessions/2 - June 8, 2025.md",
+    "01 - Sessions/1 - June 1st, 2025.md",
+    "01 - Sessions/0 - May 29, 2025.md",
+    "People/Line Six/Sorchan Varr.md",
+    "Pasted image 20250706213053.png",
+    "Writings/Newspapers/The Almashan Taliyah.md",
+    "Writings/Newspapers/The Almashan Taliyah - Day 3.md",
+    "01 - Sessions/4 - June 29, 2025.md",
+    "People/Mateo.md",
+    "Pasted image 20250706192929.png",
+    "Places/Businesses/Trusto's Gallery.md",
     "stelle.png",
     "Organizations/Line Six.md",
     "Pasted image 20250706185442.png",
-    "Writings/Newspapers/The Almashan Taliyah - Day 3.md",
-    "01 - Sessions/5 - July 6, 2025.md",
     "Watcher of the Arcanum.png",
     "Enforcement Commission Captain (Baton).png",
     "Enforcement Commission Captain (Rifle).png",
     "Enforcement Commission Officer 2.png",
-    "01 - Sessions/3 - June 14, 2025.md",
-    "01 - Sessions/2 - June 8, 2025.md",
-    "01 - Sessions/4 - June 29, 2025.md",
     "People/Ziri Lanassei.md",
     "People/Generic Adversaries/Arcanum Watcher.md",
     "People/Generic Adversaries/Almashan Enforcement Commission Captain.md",
@@ -486,25 +448,15 @@
     "Enforcement Commission Officer 1.png",
     "Enforcement Commission Officer.png",
     "People/Generic Adversaries",
-    "Writings/Newspapers/The Almashan Taliyah.md",
     "Places/Businesses/The Scriptorium of Az'mari.md",
     "Utilities/Example names.md",
     "Utilities/Vault color palette.md",
     "Utilities/Overview.md",
     "Utilities/Rumors.canvas",
-    "Utilities/Photos/download.jpg",
-    "Pasted image 20250704162343.png",
-    "Utilities/Photos/Pasted image 20250704161811.png",
     "Writings/Newspapers",
     "People/Layla.md",
-    "conflict-files-obsidian-git.md",
-    "People/Mateo.md",
     "People/The Saints/Uriel.md",
     "Places/Cities/Port Almasha.md",
-    "People/Players/Tiyeme Assisi.md",
-    "People/Players/Ylva.md",
-    "People/Players/Noro.md",
-    "People/Players/Ewan Reid.md",
     "People/Line Six",
     "Utilities/Photos",
     "Items",
