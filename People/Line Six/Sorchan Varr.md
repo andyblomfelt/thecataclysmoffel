@@ -5,7 +5,6 @@ Age: "28"
 Sexuality: Straight
 Languages: 
 Occupation/Organization:
-  - "[[Scars of Calbraithe]]"
   - "[[Line Six]]"
 Owned Locations: 
 Current Location: 
