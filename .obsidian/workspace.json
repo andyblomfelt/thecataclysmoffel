@@ -183,7 +183,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writings/Newspapers/The Almashan Taliyah - Day 3.md",
+                "file": "People/Line Six/Kaela.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -198,7 +198,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Almashan Taliyah - Day 3"
+              "title": "Kaela"
             }
           }
         ],
@@ -318,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Writings/Newspapers/The Almashan Taliyah - Day 3.md",
+                "file": "People/Line Six/Kaela.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Almashan Taliyah - Day 3"
+              "title": "Graph of Kaela"
             }
           },
           {
@@ -466,6 +466,10 @@
   },
   "active": "a06565fab1aaff89",
   "lastOpenFiles": [
+    "stelle.png",
+    "Organizations/Line Six.md",
+    "Pasted image 20250706185442.png",
+    "Writings/Newspapers/The Almashan Taliyah - Day 3.md",
     "01 - Sessions/5 - July 6, 2025.md",
     "Watcher of the Arcanum.png",
     "Enforcement Commission Captain (Baton).png",
@@ -478,7 +482,6 @@
     "People/Generic Adversaries/Arcanum Watcher.md",
     "People/Generic Adversaries/Almashan Enforcement Commission Captain.md",
     "People/Generic Adversaries/Almashan Enforcement Commission Officer.md",
-    "Writings/Newspapers/The Almashan Taliyah - Day 3.md",
     "Organizations/Almashan Enforcement Commission.md",
     "Enforcement Commission Officer 1.png",
     "Enforcement Commission Officer.png",
@@ -502,9 +505,7 @@
     "People/Players/Ylva.md",
     "People/Players/Noro.md",
     "People/Players/Ewan Reid.md",
-    "People/Players/Demiel Whym.md",
     "People/Line Six",
-    "Utilities/Photos/Pasted image 20250605230809.png",
     "Utilities/Photos",
     "Items",
     "Places/Untitled",

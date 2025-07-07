@@ -10,7 +10,7 @@ Owned Locations: Line Six (ship)
 Current Location: Port Almasha
 Condition:
 ---
-# Overview
+# ![[stelle.png|left|300]]Overview
 Captain of the [[Line Six]] crew. She was able to figure out how to build a magical engine before the Cataclysm, after making some kind of deal with [[The Saints]].
 # Current events
 # Goals
