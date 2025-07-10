@@ -34,43 +34,43 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Utilities/Templates/NPC.md": "LiBookTemplate",
-  "Places/Cities": "LiBuilding2",
-  "Places": {
-    "iconName": "LiMapPin",
-    "iconColor": "#a69473"
-  },
-  "People": {
-    "iconName": "LiUser",
-    "iconColor": "#6d756f"
-  },
-  "Places/Fel.md": "LiMap",
-  "Organizations/Rebellion.md": "LiCircleDashed",
-  "Organizations/The Paladins of Calbraithe.md": "LiCircleDashed",
-  "Organizations/The Saints.md": "LiCircleDashed",
-  "Places/Cities/Leithe.md": "LiCircleDashed",
-  "Places/Cities/Dalvareth.md": "LiCircleDashed",
-  "Places/Cities/Calbrithane.md": "LiCircleDashed",
-  "Places/Businesses": "LiBriefcaseBusiness",
-  "Events/The Cataclysm.md": "LiCircleDashed",
   "01 - Sessions": {
     "iconName": "LiBookOpen",
     "iconColor": "#795049"
   },
-  "Organizations/Scars of Calbraithe.md": "LiCircleDashed",
-  "Organizations/Line Six.md": "LiCircleDashed",
-  "Places/Cities/Valeward.md": "LiCircleDashed",
-  "Items": {
-    "iconName": "LiBox",
-    "iconColor": "#82916f"
-  },
-  "Organizations": {
-    "iconName": "LiChurch",
-    "iconColor": "#aabbc9"
-  },
-  "Events": {
+  "02 - Events": {
     "iconName": "LiCalendar",
     "iconColor": "#8375a9"
   },
-  "Organizations/Calbraithe.md": "LiCircleDashed"
+  "02 - Events/The Cataclysm.md": "LiCircleDashed",
+  "03 - Items": {
+    "iconName": "LiBox",
+    "iconColor": "#82916f"
+  },
+  "04 - Organizations": {
+    "iconName": "LiChurch",
+    "iconColor": "#aabbc9"
+  },
+  "04 - Organizations/Calbraithe.md": "LiCircleDashed",
+  "04 - Organizations/Line Six.md": "LiCircleDashed",
+  "04 - Organizations/Rebellion.md": "LiCircleDashed",
+  "04 - Organizations/Scars of Calbraithe.md": "LiCircleDashed",
+  "04 - Organizations/The Paladins of Calbraithe.md": "LiCircleDashed",
+  "04 - Organizations/The Saints.md": "LiCircleDashed",
+  "05 - People": {
+    "iconName": "LiUser",
+    "iconColor": "#6d756f"
+  },
+  "06 - Places": {
+    "iconName": "LiMapPin",
+    "iconColor": "#a69473"
+  },
+  "06 - Places/Businesses": "LiBriefcaseBusiness",
+  "06 - Places/Cities": "LiBuilding2",
+  "06 - Places/Fel.md": "LiMap",
+  "06 - Places/Cities/Dalvareth.md": "LiCircleDashed",
+  "06 - Places/Cities/Calbrithane.md": "LiCircleDashed",
+  "06 - Places/Cities/Leithe.md": "LiCircleDashed",
+  "06 - Places/Cities/Valeward.md": "LiCircleDashed",
+  "08 - Utilities/Templates/NPC.md": "LiBookTemplate"
 }

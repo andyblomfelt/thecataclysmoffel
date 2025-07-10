@@ -1,21 +1,19 @@
-# The Almashan Taliyah - Day 3
-Serving the citizens of Almasha and the Azure Coast since 650 A.C.
-
-# Front Page
-## SUSPECTED CARGO ATTACKS BY THE SCARS OF CALBRAITHE: MULTIPLE FIRED AT DVARSYA STATION
+# 8th of Hostar
+## Front Page
+### SUSPECTED CARGO ATTACKS BY THE SCARS OF CALBRAITHE: MULTIPLE FIRED AT DVARSYA STATION
 Rail traffic into Port Almasha faced disruptions yesterday following an attack on an inbound cargo train from Valeward. This incident, marking the third such assault on the crucial route in recent weeks, has sparked the Enforcement Commission into decisive action.
 
 Investigations, spearheaded by Captain Anun Tighnari of the Enforcement Commission, have linked the attack to a rogue cell operating under the banner of the Scars of Calbraithe. While one guard was tragically lost and several others injured during the apprehension efforts, the primary suspect thought responsible for coordinating the assault remains at large. "We are pursuing all leads," stated Captain Tighnari, "and we urge any citizens with information regarding activity by the Scars of Calbraithe in Port Almasha or along the Azure Coast to report it immediately."
 
 Concurrently, a significant number of personnel at Dvarsya Station were dismissed at the close of yesterday's workday. While the Logistics Commission's president, Ildis Qenerree, offered no official comment, the terminations appear directly related to security breaches that facilitated the recent attack. Travelers and merchants are advised to anticipate continued but brief freight delays as new staff are integrated. The Logistics Commission reaffirms its commitment to securing Port Almasha's vital trade networks.
-## ARCANUM TO HOST ANNUAL LICENSING EXAM IN TWO WEEKS
+### ARCANUM TO HOST ANNUAL LICENSING EXAM IN TWO WEEKS
 The Arcanum will host their 3rd annual licensing exam in 2 weeks, continuing a practice that began 3 years ago when the licensing system was first introduced in Almasha. While the admission rate remains the lowest in the history of The Arcanum, it remains the only opportunity to study magic and it's applications throughout The Port and greater Almasha. Sign up for the exam at the Scriptorium of Az'mari before public sign up closes at the end of this week. 
-## "AWAKENING" PROCESSION COULD SEE CONTINUED PROTEST ACTIVITY
+### "AWAKENING" PROCESSION COULD SEE CONTINUED PROTEST ACTIVITY
 Over the past few years, The Arcanum has putting on their own celebration of the awakening of magic throughout the world, celebrating the ways magic continues to improve the lives of Almashan citizens. Protest have erupted at many of these events, however, with organizers saying that "it's all just performative from the Arcanum, they want the benefits of magic for themselves while leaving the rest of us to get addicted to Stardust." Those who plan to attend the Awakening Procession in Ismir Market should plan to have their suppression bracelets clearly visible, as to not be mistaken for illegal protestors. 
 The Leithe Remembrance Guild continues to also host it's own events to remember those that were lost 8 years ago, in contrast to the Arcanum's approach. These remembrance events will be held in the southern quarter of Adho Nadi on the anniversary of the Awakening (the 5th of Imir).
 
-# Community
-## SOLSTICE MARKETS BEGIN OPENING
+## Community
+### SOLSTICE MARKETS BEGIN OPENING
 With the solstice coming up in two months, seasonal markets have begun opening. Over the last few years, these seasonal markets have been a gathering place for Leithen refugees who are looking for opportunities to share their traditions during the month of Imir.
-## VELMIRE'S NIGHTS SHINE BRIGHTER: LAYLA'S WELCOMES 'VELVET & VANE' FOR EXTENDED RESIDENCY
+### VELMIRE'S NIGHTS SHINE BRIGHTER: LAYLA'S WELCOMES 'VELVET & VANE' FOR EXTENDED RESIDENCY
 Layla's, the beloved lakefront tavern and hotel in southern Velmire Choti, is abuzz with excitement following the acclaimed debut of its new resident ensemble, Velvet & Vane. The group's inaugural performance yesterday (7th of Hostar, 721 A.C.) captivated patrons, and the establishment has proudly announced that Velvet & Vane will be taking up a six-month residency. Music lovers and those seeking vibrant nightlife are encouraged to visit Layla's to experience their unique sound.
