@@ -1,0 +1,1 @@
+Originally named "Gilgamesh". The one who pioneered the project of the [[Paladins of Calbraithe]] as vessels for the power of the [[Dragon Sovereigns]].
