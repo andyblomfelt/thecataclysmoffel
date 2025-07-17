@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Occupation/Organization": "multitext"
+    "Occupation/Organization": "multitext",
+    "Current Location": "text"
   }
 }

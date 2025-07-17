@@ -87,9 +87,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - People/Ziri Lanassei.md",
+                "file": "01 - Sessions/07 - July 20, 2025.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -102,7 +102,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ziri Lanassei"
+              "title": "07 - July 20, 2025"
             }
           },
           {
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -416,12 +416,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2e0d8a9821f088ad",
+  "active": "58c282d8f70c7cd7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "05 - People/Ziri Lanassei.md",
-    "01 - Sessions/07 - July 20, 2025.md",
     "01 - Sessions/06 - July 13, 2025.md",
+    "conflict-files-obsidian-git.md",
+    "01 - Sessions/07 - July 20, 2025.md",
     "01 - Sessions/05 - July 6, 2025.md",
     "01 - Sessions/04 - June 29, 2025.md",
     "01 - Sessions/03 - June 14, 2025.md",
