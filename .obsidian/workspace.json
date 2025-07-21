@@ -104,9 +104,81 @@
               "icon": "diff",
               "title": "Diff: 07 - July 20, 2025"
             }
+          },
+          {
+            "id": "f5b3981ede01ca7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Sessions/07 - July 20, 2025.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "07 - July 20, 2025"
+            }
+          },
+          {
+            "id": "beff49ad840018ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Sessions/07 - July 20, 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "07 - July 20, 2025"
+            }
+          },
+          {
+            "id": "972ccc184b2ddbe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Sessions/07 - July 20, 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "07 - July 20, 2025"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -392,8 +464,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2e0d8a9821f088ad",
+  "active": "972ccc184b2ddbe9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "01 - Sessions/07 - July 20, 2025.md",
     "06 - Places/Catacombs of Port Almasha.md",
     "01 - Sessions/06 - July 13, 2025.md",
@@ -401,7 +474,6 @@
     "04 - Organizations/The Arcanum.md",
     "05 - People/The Saints/Uriel.md",
     "05 - People/Ziri Lanassei.md",
-    "conflict-files-obsidian-git.md",
     "01 - Sessions/05 - July 6, 2025.md",
     "01 - Sessions/04 - June 29, 2025.md",
     "01 - Sessions/03 - June 14, 2025.md",
