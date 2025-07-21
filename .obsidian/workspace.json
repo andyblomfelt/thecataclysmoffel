@@ -12,25 +12,11 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Sessions/6 - July 13, 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "6 - July 13, 2025"
+              "title": "New tab"
             }
           },
           {
@@ -39,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Sessions/5 - July 6, 2025.md",
+                "file": "04 - Organizations/Almashan Enforcement Commission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5 - July 6, 2025"
+              "title": "Almashan Enforcement Commission"
             }
           },
           {
@@ -89,7 +75,7 @@
               "state": {
                 "file": "01 - Sessions/07 - July 20, 2025.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -109,28 +95,18 @@
             "id": "2e0d8a9821f088ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "01 - Sessions/06 - July 13, 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "01 - Sessions/07 - July 20, 2025.md",
+                "bFile": "01 - Sessions/07 - July 20, 2025.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "06 - July 13, 2025"
+              "icon": "diff",
+              "title": "Diff: 07 - July 20, 2025"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -416,12 +392,16 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "58c282d8f70c7cd7",
+  "active": "2e0d8a9821f088ad",
   "lastOpenFiles": [
-    "05 - People/Ziri Lanassei.md",
-    "01 - Sessions/06 - July 13, 2025.md",
-    "conflict-files-obsidian-git.md",
     "01 - Sessions/07 - July 20, 2025.md",
+    "06 - Places/Catacombs of Port Almasha.md",
+    "01 - Sessions/06 - July 13, 2025.md",
+    "04 - Organizations/Almashan Enforcement Commission.md",
+    "04 - Organizations/The Arcanum.md",
+    "05 - People/The Saints/Uriel.md",
+    "05 - People/Ziri Lanassei.md",
+    "conflict-files-obsidian-git.md",
     "01 - Sessions/05 - July 6, 2025.md",
     "01 - Sessions/04 - June 29, 2025.md",
     "01 - Sessions/03 - June 14, 2025.md",
@@ -435,17 +415,13 @@
     "01 - Sessions/2 - June 8, 2025.md",
     "01 - Sessions/1 - June 1st, 2025.md",
     "01 - Sessions/0 - May 29, 2025.md",
-    "05 - People/The Saints/Uriel.md",
     "07 - Writings/Newspapers/The Almashan Taliyah.md",
     "08 - Utilities/Encounter.md",
     "05 - People/Trusto's Gallery/Halur.md",
     "Shard of Mimir.md",
     "04 - Organizations/Line Six.md",
-    "05 - People/The Saints/Camael.md",
     "03 - Items/Shard of Mimir",
-    "06 - Places/Catacombs of Port Almasha.md",
     "Pasted image 20250711231955.png",
-    "06 - Places/Cities/Port Almasha.md",
     "08 - Utilities/Photos/Enforcement Commission Captain (Baton).png",
     "08 - Utilities/Photos/Pasted image 20250706213053.png",
     "08 - Utilities/Photos/Pasted image 20250706192929.png",
