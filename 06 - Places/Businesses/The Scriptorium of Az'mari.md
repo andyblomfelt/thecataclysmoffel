@@ -3,7 +3,7 @@ The Az'mari Collection is a library inside [[The Arcanum]], open to the public f
 https://www.patreon.com/posts/56192415
 
 # People
-[[Ziri Lanassei]]
+[[Ziri Lanassei]] - head archivist
 
 # Available information
 ## DC 10

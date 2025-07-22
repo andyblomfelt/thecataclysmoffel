@@ -92,20 +92,6 @@
             }
           },
           {
-            "id": "2e0d8a9821f088ad",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "01 - Sessions/07 - July 20, 2025.md",
-                "bFile": "01 - Sessions/07 - July 20, 2025.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 07 - July 20, 2025"
-            }
-          },
-          {
             "id": "f5b3981ede01ca7f",
             "type": "leaf",
             "state": {
@@ -178,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -466,14 +452,17 @@
   },
   "active": "972ccc184b2ddbe9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "01 - Sessions/07 - July 20, 2025.md",
-    "06 - Places/Catacombs of Port Almasha.md",
     "01 - Sessions/06 - July 13, 2025.md",
+    "06 - Places/Catacombs of Port Almasha.md",
+    "06 - Places/Cities/Leithe.md",
+    "05 - People/Ziri Lanassei.md",
+    "06 - Places/Businesses/The Scriptorium of Az'mari.md",
+    "06 - Places/Businesses/Layla's.md",
+    "01 - Sessions/07 - July 20, 2025.md",
+    "conflict-files-obsidian-git.md",
     "04 - Organizations/Almashan Enforcement Commission.md",
     "04 - Organizations/The Arcanum.md",
     "05 - People/The Saints/Uriel.md",
-    "05 - People/Ziri Lanassei.md",
     "01 - Sessions/05 - July 6, 2025.md",
     "01 - Sessions/04 - June 29, 2025.md",
     "01 - Sessions/03 - June 14, 2025.md",
@@ -489,9 +478,6 @@
     "01 - Sessions/0 - May 29, 2025.md",
     "07 - Writings/Newspapers/The Almashan Taliyah.md",
     "08 - Utilities/Encounter.md",
-    "05 - People/Trusto's Gallery/Halur.md",
-    "Shard of Mimir.md",
-    "04 - Organizations/Line Six.md",
     "03 - Items/Shard of Mimir",
     "Pasted image 20250711231955.png",
     "08 - Utilities/Photos/Enforcement Commission Captain (Baton).png",
