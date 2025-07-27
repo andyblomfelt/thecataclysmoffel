@@ -4,11 +4,11 @@ Azir
 Collei
 Dehya
 Denahar
-Faruzan
+x Faruzan
 Hanuth
 Ilum
 Imis
-Kaveh
+x Kaveh
 Keras
 Leziar
 Mayos
