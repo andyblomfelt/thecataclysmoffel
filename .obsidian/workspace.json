@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Sessions/07 - July 20, 2025.md",
+                "file": "05 - People/The Saints/Camael.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07 - July 20, 2025"
+              "title": "Camael"
             }
           }
         ],
@@ -280,7 +280,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Sessions/6 - July 13, 2025.md",
+                "file": "05 - People/The Saints/Camael.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -308,7 +308,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 6 - July 13, 2025"
+              "title": "Graph of Camael"
             }
           },
           {
@@ -435,7 +435,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 791.5
+    "width": 972.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -450,15 +450,19 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "972ccc184b2ddbe9",
+  "active": "d9313f28e5f64704",
   "lastOpenFiles": [
-    "01 - Sessions/06 - July 13, 2025.md",
-    "06 - Places/Catacombs of Port Almasha.md",
-    "06 - Places/Cities/Leithe.md",
+    "07 - Writings/Ziri's Journal.md",
+    "06 - Places/Temple of the Almáttki.md",
     "05 - People/Ziri Lanassei.md",
+    "04 - Organizations/Line Six.md",
+    "01 - Sessions/08 - July 27, 2025.md",
+    "05 - People/Generic Adversaries/Constructs of the First World.md",
+    "01 - Sessions/07 - July 20, 2025.md",
+    "01 - Sessions/06 - July 13, 2025.md",
+    "06 - Places/Cities/Leithe.md",
     "06 - Places/Businesses/The Scriptorium of Az'mari.md",
     "06 - Places/Businesses/Layla's.md",
-    "01 - Sessions/07 - July 20, 2025.md",
     "conflict-files-obsidian-git.md",
     "04 - Organizations/Almashan Enforcement Commission.md",
     "04 - Organizations/The Arcanum.md",
@@ -474,10 +478,6 @@
     "01 - Sessions/4 - June 29, 2025.md",
     "01 - Sessions/3 - June 14, 2025.md",
     "01 - Sessions/2 - June 8, 2025.md",
-    "01 - Sessions/1 - June 1st, 2025.md",
-    "01 - Sessions/0 - May 29, 2025.md",
-    "07 - Writings/Newspapers/The Almashan Taliyah.md",
-    "08 - Utilities/Encounter.md",
     "03 - Items/Shard of Mimir",
     "Pasted image 20250711231955.png",
     "08 - Utilities/Photos/Enforcement Commission Captain (Baton).png",
