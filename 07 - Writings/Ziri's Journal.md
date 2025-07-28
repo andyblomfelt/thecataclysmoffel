@@ -1,8 +1,16 @@
+# Extra notes
 A note falls out of the journal in a different handwriting:
 
-5: SIADIHSMUEENERL
-4: HOIOEWSLRESEPRTN
-4: YWEGOERHURIT
+SIADIHSMUEENERL
+HOIOEWSLRESEPRTN
+YWEGOERHURIT
+
+A second note falls out, smaller than the first. With a serires of circles in three lines:
+5 circles
+4 circles
+4 circles
+
+# Entries
 
 3rd of Morasir, 715 (~6 years ago)
 The Council has suddenly shifted their position on the research I've been conducting with Halur and Mateo. The four of us have been studying this for years now, but I received word from the council today that we are being reassigned to new projects. Faruzan has never been directly involved in research like this. I don't know what his sudden interest in dictating our projects is about. At least I was reassigned to the Scriptorum, so I can at least go through their archives to the best of my ability.
