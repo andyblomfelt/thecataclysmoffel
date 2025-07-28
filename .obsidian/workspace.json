@@ -8,96 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68bb925313344010",
+            "id": "f5b3981ede01ca7f",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0b97062f2fe7c02b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Organizations/Almashan Enforcement Commission.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Almashan Enforcement Commission"
-            }
-          },
-          {
-            "id": "ec4738a52dd1c997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - People/The Saints/Uriel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Uriel"
-            }
-          },
-          {
-            "id": "58c282d8f70c7cd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Sessions/07 - July 20, 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "07 - July 20, 2025"
-            }
-          },
-          {
-            "id": "f5b3981ede01ca7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Sessions/07 - July 20, 2025.md",
+                "file": "01 - Sessions/08 - July 27, 2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -111,12 +28,71 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "07 - July 20, 2025"
+              "title": "08 - July 27, 2025"
             }
           },
           {
-            "id": "beff49ad840018ed",
+            "id": "df48914450a02f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Places/Temple of the Almáttki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Temple of the Almáttki"
+            }
+          },
+          {
+            "id": "d4ac72e68c36dddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 - Writings/Ziri's Journal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ziri's Journal"
+            }
+          },
+          {
+            "id": "833b5e8cae5bb1f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4733fefa3ecd8961",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,33 +114,9 @@
               "icon": "lucide-file",
               "title": "07 - July 20, 2025"
             }
-          },
-          {
-            "id": "972ccc184b2ddbe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - People/The Saints/Camael.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Camael"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.50260543823242
+    "width": 267.5
   },
   "right": {
     "id": "aa6c18cd6ed1a95e",
@@ -280,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "05 - People/The Saints/Camael.md",
+                "file": "07 - Writings/Ziri's Journal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -308,7 +260,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Camael"
+              "title": "Graph of Ziri's Journal"
             }
           },
           {
@@ -450,15 +402,16 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d9313f28e5f64704",
+  "active": "d4ac72e68c36dddb",
   "lastOpenFiles": [
-    "07 - Writings/Ziri's Journal.md",
     "06 - Places/Temple of the Almáttki.md",
+    "07 - Writings/Ziri's Journal.md",
+    "01 - Sessions/07 - July 20, 2025.md",
+    "01 - Sessions/08 - July 27, 2025.md",
+    "05 - People/The Saints/Camael.md",
     "05 - People/Ziri Lanassei.md",
     "04 - Organizations/Line Six.md",
-    "01 - Sessions/08 - July 27, 2025.md",
     "05 - People/Generic Adversaries/Constructs of the First World.md",
-    "01 - Sessions/07 - July 20, 2025.md",
     "01 - Sessions/06 - July 13, 2025.md",
     "06 - Places/Cities/Leithe.md",
     "06 - Places/Businesses/The Scriptorium of Az'mari.md",
@@ -477,7 +430,6 @@
     "01 - Sessions/5 - July 6, 2025.md",
     "01 - Sessions/4 - June 29, 2025.md",
     "01 - Sessions/3 - June 14, 2025.md",
-    "01 - Sessions/2 - June 8, 2025.md",
     "03 - Items/Shard of Mimir",
     "Pasted image 20250711231955.png",
     "08 - Utilities/Photos/Enforcement Commission Captain (Baton).png",
