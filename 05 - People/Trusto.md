@@ -1,0 +1,3 @@
+![[download.jpg|left|300]] Trusto is a buyer of wares from across [[Yarra]], and a common customer and commissioner of [[Line Six]] and their artifact running expeditions into [[Milvenna]]. He owns a shop in the merchant's district of [[06 - Places/Yarra/Almasha/Port Almasha/Port Almasha]] called [[Trusto's Gallery]], where he operates a secret magical artifact running business.
+
+Has a son named [[Relne]], and was married to [[Layla]] before she died.

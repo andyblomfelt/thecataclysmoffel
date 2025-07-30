@@ -1,4 +1,5 @@
 # Replicator
+![[Pasted image 20250728145543.png|left|300]]
 ## Features
 Multiattack - The replicator can take 2 of the following during it's turn: Radial Sweep, Directive Blow x2, or Chain Beam.
 Tripwire - If a creature intersects a tripwire created from Chain Beam or Connect take _Hit:_ 4 (1d4 + 2) damage. Make a DC 14 Dexterity. If fail, the creature's movement is halted.

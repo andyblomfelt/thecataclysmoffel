@@ -12,49 +12,21 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Sessions/08 - July 27, 2025.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "08 - July 27, 2025"
+              "title": "New tab"
             }
           },
           {
             "id": "df48914450a02f16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Places/Temple of the Almáttki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Temple of the Almáttki"
+              "title": "New tab"
             }
           },
           {
@@ -114,9 +86,105 @@
               "icon": "lucide-file",
               "title": "07 - July 20, 2025"
             }
+          },
+          {
+            "id": "30a939cfacf55e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - People/Generic Adversaries/Constructs of the First World.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Constructs of the First World"
+            }
+          },
+          {
+            "id": "01c5f5d9f27b8da2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250711231955.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250711231955"
+            }
+          },
+          {
+            "id": "5560c1d2b301c3dd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250711231955.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250711231955"
+            }
+          },
+          {
+            "id": "2d18e1f2f47304d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Sessions/Recaps/Ch. 0 - Prologue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ch. 0 - Prologue"
+            }
+          },
+          {
+            "id": "730cac48a0fb25b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Sessions/Recaps/Ch. 01 - Convergence in Port Almasha.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ch. 01 - Convergence in Port Almasha"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -208,7 +276,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Fel.md",
+                "file": "01 - Sessions/Plans/01 - June 1st, 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -223,7 +291,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fel"
+              "title": "01 - June 1st, 2025"
             }
           },
           {
@@ -232,10 +300,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "07 - Writings/Ziri's Journal.md",
+                "file": "01 - Sessions/Recaps/Ch. 01 - Convergence in Port Almasha.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "",
+                  "search": "-tag:#exclude  ",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -256,11 +324,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.713275462622442,
-                  "close": true
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ziri's Journal"
+              "title": "Graph of Ch. 01 - Convergence in Port Almasha"
             }
           },
           {
@@ -387,7 +455,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 972.5
+    "width": 1114.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -402,55 +470,55 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d4ac72e68c36dddb",
+  "active": "d9313f28e5f64704",
   "lastOpenFiles": [
-    "06 - Places/Temple of the Almáttki.md",
-    "07 - Writings/Ziri's Journal.md",
-    "01 - Sessions/07 - July 20, 2025.md",
-    "01 - Sessions/08 - July 27, 2025.md",
-    "05 - People/The Saints/Camael.md",
-    "05 - People/Ziri Lanassei.md",
-    "04 - Organizations/Line Six.md",
-    "05 - People/Generic Adversaries/Constructs of the First World.md",
-    "01 - Sessions/06 - July 13, 2025.md",
-    "06 - Places/Cities/Leithe.md",
-    "06 - Places/Businesses/The Scriptorium of Az'mari.md",
-    "06 - Places/Businesses/Layla's.md",
-    "conflict-files-obsidian-git.md",
-    "04 - Organizations/Almashan Enforcement Commission.md",
-    "04 - Organizations/The Arcanum.md",
-    "05 - People/The Saints/Uriel.md",
-    "01 - Sessions/05 - July 6, 2025.md",
-    "01 - Sessions/04 - June 29, 2025.md",
-    "01 - Sessions/03 - June 14, 2025.md",
-    "01 - Sessions/02 - June 8, 2025.md",
-    "01 - Sessions/01 - June 1st, 2025.md",
-    "01 - Sessions/00 - May 29, 2025.md",
-    "01 - Sessions/6 - July 13, 2025.md",
-    "01 - Sessions/5 - July 6, 2025.md",
-    "01 - Sessions/4 - June 29, 2025.md",
-    "01 - Sessions/3 - June 14, 2025.md",
-    "03 - Items/Shard of Mimir",
-    "Pasted image 20250711231955.png",
-    "08 - Utilities/Photos/Enforcement Commission Captain (Baton).png",
-    "08 - Utilities/Photos/Pasted image 20250706213053.png",
-    "08 - Utilities/Photos/Pasted image 20250706192929.png",
-    "08 - Utilities/Photos/stelle.png",
-    "08 - Utilities/Photos/Pasted image 20250706185442.png",
-    "08 - Utilities/Photos/Watcher of the Arcanum.png",
-    "08 - Utilities/Photos/Enforcement Commission Captain (Rifle).png",
-    "08 - Utilities/Photos/Enforcement Commission Officer 2.png",
-    "08 - Utilities/Photos/Enforcement Commission Officer 1.png",
-    "05 - People/Generic Adversaries",
+    "01 - Sessions/Recaps/Ch. 0 - Prologue.md",
+    "01 - Sessions/Recaps/Ch. 01 - Convergence in Port Almasha.md",
+    "01 - Sessions/Plans/08 - July 27, 2025.md",
+    "04 - Organizations/The Barons of Port Almasha.md",
+    "06 - Places/Yarra/Almasha/Port Almasha/Port Almasha.md",
+    "06 - Places/Yarra/Almasha/Port Almasha/Velmire Choti/Velmire Choti.md",
+    "06 - Places/Yarra/Yarra.md",
+    "06 - Places/Yarra/Almasha/Port Almasha/Velmire Choti",
+    "06 - Places/Yarra/Almasha/Port Almasha",
+    "06 - Places/Yarra/Almasha",
+    "06 - Places/Yarra",
+    "01 - Sessions/Plans/01 - June 1st, 2025.md",
+    "01 - Sessions/Plans/03 - June 14, 2025.md",
+    "01 - Sessions/Plans/04 - June 29, 2025.md",
+    "01 - Sessions/Plans/05 - July 6, 2025.md",
+    "01 - Sessions/Plans/02 - June 8, 2025.md",
+    "01 - Sessions/Plans/00 - May 29, 2025.md",
+    "01 - Sessions/Plans",
+    "01 - Sessions/Recaps",
+    "01 - Sessions/Plans/06 - July 13, 2025.md",
+    "Untitled.md",
+    "05 - People/Players/Tiyeme Assisi.md",
+    "01 - Sessions/Plans/07 - July 20, 2025.md",
+    "05 - People/Kaela.md",
+    "05 - People/Halur.md",
+    "06 - Places/Geographies",
+    "06 - Places/Untitled.md",
+    "06 - Places/Districts",
+    "02 - Events/The Cataclysm.md",
+    "04 - Organizations/Calbraithe.md",
+    "08 - Utilities/Vault color palette.md",
+    "06 - Places/Yarra/Almasha/Port Almasha/Velmire Choti/Trusto's Gallery.md",
+    "08 - Utilities/Example names.md",
+    "08 - Utilities/Encounter.md",
+    "08 - Utilities/Photos/Pasted image 20250728145921.png",
+    "08 - Utilities/Photos/Pasted image 20250711231955.png",
+    "quartz/public/index-og-image.webp",
+    "quartz/public/postscript.js",
+    "quartz/public/prescript.js",
+    "quartz/public/static/og-image.png",
+    "quartz/public/static/icon.png",
+    "quartz/node_modules/gifuct-js/demo/jblack.gif",
+    "quartz/node_modules/gifuct-js/demo/dog.gif",
+    "quartz/node_modules/gifuct-js/demo/horses.gif",
+    "quartz/node_modules/cli-spinner/img/spinner.gif",
+    "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
     "Utilities/Rumors.canvas",
-    "07 - Writings/Newspapers",
-    "05 - People/Line Six",
-    "08 - Utilities/Photos",
-    "03 - Items",
-    "Places/Untitled",
-    "05 - People/Trusto's Gallery",
-    "05 - People/Dragon Soverigns",
-    "05 - People/The Saints",
     "Organizations/Untitled.canvas"
   ]
 }

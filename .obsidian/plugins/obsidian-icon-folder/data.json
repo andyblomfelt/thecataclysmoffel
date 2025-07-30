@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMountainSnow",
       "LiChurch",
       "LiCalendar",
       "LiPentagon",
-      "LiBox",
-      "LiBookOpen"
+      "LiBox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,12 +65,12 @@
     "iconName": "LiMapPin",
     "iconColor": "#a69473"
   },
-  "06 - Places/Businesses": "LiBriefcaseBusiness",
   "06 - Places/Cities": "LiBuilding2",
-  "06 - Places/Fel.md": "LiMap",
   "06 - Places/Cities/Dalvareth.md": "LiCircleDashed",
-  "06 - Places/Cities/Calbrithane.md": "LiCircleDashed",
   "06 - Places/Cities/Leithe.md": "LiCircleDashed",
   "06 - Places/Cities/Valeward.md": "LiCircleDashed",
-  "08 - Utilities/Templates/NPC.md": "LiBookTemplate"
+  "08 - Utilities/Templates/NPC.md": "LiBookTemplate",
+  "06 - Places/Buildings & Locations": "LiBriefcaseBusiness",
+  "06 - Places/Geographies": "LiMountainSnow",
+  "06 - Places/Geographies/Fel.md": "LiMap"
 }

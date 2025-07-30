@@ -1,4 +1,4 @@
-A distilled form of [[Gems]] that is used by those at [[Trusto's Gallery]] to smuggle magic items into [[Port Almasha]]. This works because magic from [[Gems]] and more traditional magic do not interact, and can blur the signature of another.
+A distilled form of [[Gems]] that is used by those at [[Trusto's Gallery]] to smuggle magic items into [[06 - Places/Yarra/Almasha/Port Almasha/Port Almasha]]. This works because magic from [[Gems]] and more traditional magic do not interact, and can blur the signature of another.
 # Method
 1. Raw [[Gems]] are ground using rare metals. Produces *Raw Stardust*
 2. Combine *Raw Stardust* with saltpeter, silver ash, and oil from a plant called Blue-Moon Weed. Gently heat in stages. Results in *Pure Stardust*.

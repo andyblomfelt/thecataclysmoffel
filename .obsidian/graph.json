@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#exclude  ",
+  "search": "-tag:#exclude",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:People/Players  ",
@@ -22,10 +22,31 @@
       }
     },
     {
-      "query": "path:Places  ",
+      "query": "path:\"06 - Places\"  ",
       "color": {
         "a": 1,
         "rgb": 10916979
+      }
+    },
+    {
+      "query": "path:\"03 - Items\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8556911
+      }
+    },
+    {
+      "query": "path:\"02 - Events\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8615337
+      }
+    },
+    {
+      "query": "path:\"04 - Organizations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11189193
       }
     }
   ],
@@ -39,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792617,
-  "close": false
+  "scale": 0.5087618855792639,
+  "close": true
 }
