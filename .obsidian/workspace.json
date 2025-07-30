@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Sessions/Recaps/Ch. 01 - Convergence in Port Almasha.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -180,7 +180,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ch. 01 - Convergence in Port Almasha"
+              "title": "index"
             }
           }
         ],
@@ -300,7 +300,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Sessions/Recaps/Ch. 01 - Convergence in Port Almasha.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-tag:#exclude  ",
@@ -328,7 +328,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ch. 01 - Convergence in Port Almasha"
+              "title": "Graph of index"
             }
           },
           {
@@ -470,10 +470,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d9313f28e5f64704",
+  "active": "730cac48a0fb25b3",
   "lastOpenFiles": [
-    "01 - Sessions/Recaps/Ch. 0 - Prologue.md",
     "01 - Sessions/Recaps/Ch. 01 - Convergence in Port Almasha.md",
+    "index.md",
+    "01 - Sessions/Recaps/index.md",
+    "01 - Sessions/Recaps/Ch. 0 - Prologue.md",
     "01 - Sessions/Plans/08 - July 27, 2025.md",
     "04 - Organizations/The Barons of Port Almasha.md",
     "06 - Places/Yarra/Almasha/Port Almasha/Port Almasha.md",
@@ -504,8 +506,6 @@
     "04 - Organizations/Calbraithe.md",
     "08 - Utilities/Vault color palette.md",
     "06 - Places/Yarra/Almasha/Port Almasha/Velmire Choti/Trusto's Gallery.md",
-    "08 - Utilities/Example names.md",
-    "08 - Utilities/Encounter.md",
     "08 - Utilities/Photos/Pasted image 20250728145921.png",
     "08 - Utilities/Photos/Pasted image 20250711231955.png",
     "quartz/public/index-og-image.webp",
