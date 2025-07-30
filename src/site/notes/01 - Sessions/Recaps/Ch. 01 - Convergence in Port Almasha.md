@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-sessions/recaps/ch-01-convergence-in-port-almasha/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-sessions/recaps/ch-01-convergence-in-port-almasha/"}
 ---
 
 ## Boarding the Line Six
